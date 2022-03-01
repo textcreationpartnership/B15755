@@ -1,0 +1,1863 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L.A. Seneca the philosopher, his booke of consolation to Marcia. Translated into an English poem</title>
+            <title>Ad Marciam. English</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15755</idno>
+            <idno type="STC">STC 22215a</idno>
+            <idno type="STC">ESTC S117095</idno>
+            <idno type="EEBO-CITATION">99852310</idno>
+            <idno type="PROQUEST">99852310</idno>
+            <idno type="VID">177879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B15755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177879)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1257:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>L.A. Seneca the philosopher, his booke of consolation to Marcia. Translated into an English poem</title>
+                  <title>Ad Marciam. English</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+                  <author>Freeman, Ralph, Sir, fl. 1610-1655.</author>
+               </titleStmt>
+               <extent>[4], 46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E[lizabeth] P[urslowe] for Henry Seile, and are to be sold at the Tygres head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Ad Marciam.</note>
+                  <note>Translator's note "To the reader" signed: Philophrastes, i.e. Sir Ralph Freeman.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: Seneca's consolation to Marcia.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Variant 1: title page has "philosopher his booke,". Variant 2: includes an extra leaf with a printed dedication to John Egerton, Earl of Bridgewater.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Consolation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177879:1" rendition="simple:additions"/>
+            <p>L. A. SENECA THE PHILOSOPHER, HIS BOOKE OF CONSOLATION to <hi>MARCIA.</hi>
+            </p>
+            <p>Tranſlated into an Engliſh POEM.</p>
+            <p>LONDON. Printed by <hi>E. P.</hi> for HENRY SEILE, and are to beſold at the Tygres head in St. Pauls Church-yard. 1635.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177879:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, to offer thee a piece of <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> Engliſhed, when the whole is Indenniz'd here, and almoſt eve<g ref="char:EOLhyphen"/>ry where elſe, might ſeeme ridi<g ref="char:EOLhyphen"/>culous; but if his <hi>Copious Brevity,</hi> and <hi>Powerfull Facility,</hi> two eminencies peculi<g ref="char:EOLhyphen"/>ar to <hi>Seneca,</hi> be loſt, or at the beſt, but faintly expreſſed in thoſe ſeverall Tranſlations, (as perhaps not to be reached by any Proſe but his owne) it may be worth an houres paines to ſee the ſame in a new way, more patheti<g ref="char:EOLhyphen"/>cally rendred to the life; which in the opini<g ref="char:EOLhyphen"/>on of Iudicious men, thou wilt find in this Po<g ref="char:EOLhyphen"/>eme, provided thou doeſt not marre it in the reading.</p>
+            <closer>
+               <signed>PHILOPHRASTES.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177879:2"/>
+            <head>TO THE NOBLE LOVER OF all Vertues, and Fautor of all Goodneſſe, the Illuſtrious and truely Religious, IOHN Earle of <hi>Bridgewater,</hi> Viſcount <hi>Brackly,</hi> Baron of <hi>Elſmere,</hi> Knight of the Bath, Lord Preſident of <hi>Wales,</hi> and one of the Lords of his Majeſties moſt Honourable Privie Councell.</head>
+            <l>
+               <seg rend="decorInit">T</seg>He worthieſt Subjects (as the Sages ſay)</l>
+            <l>Be thoſe who be their Countries joyfull ſtay</l>
+            <l>Which Gods due glory, next their Princes Fame</l>
+            <l>And theſe three marks do make their beſt bleſt ayme;</l>
+            <l>How well's your worth approv'd to God and Man,</l>
+            <l>Our Church, our King, our Kingdomes witneſſe can,</l>
+            <l>How well your life doth hit this triple white,</l>
+            <l>Whoſe Goodneſſe, Graveneſſe, Greatneſſe, all delight</l>
+            <l>May that bright name ſhine uneclipſed here</l>
+            <l>Whom all his Country juſtly holds moſt deere;</l>
+            <l>Whom Heaven hath ſtellified for's Piety,</l>
+            <l>Whom his great King loves for's loyalty.</l>
+            <l>O may this threefold twiſt be nere untwin'd,</l>
+            <l>Long may Learning of you a ſure friend find.</l>
+            <l>May Honors Pinnace Fames ſwolne ſayles admit,</l>
+            <l>Tackled with merit, Piloted with wit.</l>
+            <l>That as you God, God may you ever honor,</l>
+            <l>The while you fight under Faiths ſacred Banner.</l>
+            <l>That as you grace your King, your King may grace you,</l>
+            <l>Your God, your King, your Countrey may embrace you,</l>
+            <l>With humble heart and voyce thus ſayes, thus prayes,</l>
+            <l>Who in devout admiring reſt alwayes.</l>
+            <closer>
+               <signed>
+                  <hi>Moſt devoted to your <g ref="char:V">Ʋ</g>ertues.</hi> RC:</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177879:3"/>
+            <pb n="1" facs="tcp:177879:3"/>
+            <head>L. A. SENECA OF CONSOLATION TO MARCIA.</head>
+            <div n="1" type="chapter">
+               <head>Cap. 1</head>
+               <l>
+                  <seg rend="decorInit">B</seg>Vt that I knew thee <hi>Marcia</hi> to be, </l>
+               <l>As from their faults, from Womens weakneſſe free;</l>
+               <l>And that thy manners argue thou wert ſent,</l>
+               <l>To re-inforce ſome ancient preſident,</l>
+               <l>I nothing had againſt thy griefe attempted,</l>
+               <l>Since from the like, even men are not exempted.</l>
+               <l>Nor could I hope the time now ſo unfit,</l>
+               <l>The fault ſo great, and thou the Judge of it,</l>
+               <l>That any reaſon could thy will importune,</l>
+               <l>To be appeas'd, and to forgive thy fortune;</l>
+               <l>But thy knowne courage, and the large extent</l>
+               <l>Of thy try'd vertues, made me confident.</l>
+               <l>'Tis manifeſt how in thy Fathers caſe,</l>
+               <l>Thou ſhew'dſt thy ſelfe, who in thy love had place,</l>
+               <l>As ample as thy Children then alive,</l>
+               <l>Save that thou would'ſt not he ſhould them ſurvive,</l>
+               <pb n="2" facs="tcp:177879:4"/>
+               <l>And yet that's doubtfull too, great piety</l>
+               <l>Againſt things fit, reſerves a liberty:</l>
+               <l>Thy Fathers death, as much as in thee lay,</l>
+               <l>Thou hinderd'ſt, when thou ſaw'ſt no other way,</l>
+               <l>For him t'eſcape the ſhamefull ſervitude,</l>
+               <l>Which through <hi>Sejanus</hi> hate had ſoone enſude,</l>
+               <l>Thou favour'dſt not his purpoſe, but content</l>
+               <l>To yeeld thy ſelfe, and privately lament;</l>
+               <l>Swallow'dſt thy groanes, yet never hadſt the art,</l>
+               <l>In cheerefull lookes to hide a wofull heart:</l>
+               <l>And this thou didſt, when throgh the wretched times,</l>
+               <l>'Twas goodneſſe to forbeare unnaturall crimes;</l>
+               <l>But when an alteration made truth ſeeme</l>
+               <l>Somewhat more ſafe, thou didſt indeed redeeme</l>
+               <l>Thy Sire from death, by publiſhing the wit,</l>
+               <l>Which valiantly with his owne blood he writ:</l>
+               <l>Well maiſt thou therefore thy great merits boaſt,</l>
+               <l>For <hi>Romes</hi> Records, whereof moſt part were loſt:</l>
+               <l>Poſterity that to his endleſſe glory,</l>
+               <l>May freely read an uncorrupted ſtory,</l>
+               <l>Shall render thankes, which he ſhall likewiſe give,</l>
+               <l>For that through thee his memory ſhall live,</l>
+               <l>And flouriſh here, whil'ſt any of our heires</l>
+               <l>Shall be deſirous to revolve th'affaires</l>
+               <l>Of their fore-fathers, or ſhall ſeeke t'inherit</l>
+               <l>The knowledge of a perfect <hi>Roman</hi> ſpirit.</l>
+               <l>Whilſt any ſhall require to know a man,</l>
+               <l>Free in thought, word, and action, who even then,</l>
+               <l>When all mens neckes ſo ſlaviſhly did beare</l>
+               <l>
+                  <hi>Sejanus</hi> yoke, was wholly void of feare.</l>
+               <l>It had been dammage to the publike weale,</l>
+               <l>T'have ſuffer'd wilfull envie to conceale.</l>
+               <pb n="3" facs="tcp:177879:4"/>
+               <l>A worke with two ſuch eminencies fraught,</l>
+               <l>Both Eloquence and free revealed thought.</l>
+               <l>Hee's read, and in mens hands and hearts abides,</l>
+               <l>Where boldly he times menacings derides:</l>
+               <l>But thoſe vile miſcreants of whom there needs</l>
+               <l>No memory, but for their damned deeds,</l>
+               <l>Shall nere obtaine of any tongue to be</l>
+               <l>Hereafter nam'd, though to their infamie.</l>
+               <l>Theſe acts of thine forbad me to looke backe</l>
+               <l>Upon thy Sexe, to weigh what that might lacke;</l>
+               <l>Or to reſpect thy lookes, where griefe doth reſt,</l>
+               <l>And is thereof, as at the firſt, poſſeſt:</l>
+               <l>Behold how plainely I intend to deale,</l>
+               <l>That doe not on thy paſſions cloſely ſteale,</l>
+               <l>But have reviv'd old woes, would'ſt thou be ſure</l>
+               <l>This may be heal'd, th'haſt ſeene as great a cure.</l>
+               <l>Let others then deceitfull med'cines borrow,</l>
+               <l>I am reſolv'd to skirmiſh with thy ſorrow,</l>
+               <l>And if thou'lt heare me ſpeake, to make thee know</l>
+               <l>How to dry up thoſe teares, that now more flow</l>
+               <l>From cuſtome then from reaſon, which I meant,</l>
+               <l>And gladly would performe with thy conſent,</l>
+               <l>But if thou ſhalt in wilfulneſſe perſiſt,</l>
+               <l>Ile do't perforce though thou thy ſelfe reſiſt,</l>
+               <l>Although thou haſt determin'd to imbrace,</l>
+               <l>And hug thy ſorrow in thy dead ſonnes place.</l>
+               <l>But what good can there from our labour riſe?</l>
+               <l>All meanes have been aſſay'd, thy friends, allies,</l>
+               <l>And others whoſe authority might threat</l>
+               <l>Thy diſobedience, have been knowne t'intreat,</l>
+               <l>For Learnings cauſe, and for thy fathers ſake,</l>
+               <l>Yet none could profit longer than they ſpake.</l>
+               <pb n="4" facs="tcp:177879:5"/>
+               <l>Yea time it ſelfe, Natures beſt remedy,</l>
+               <l>That heales all woes, hath loſt his force in thee.</l>
+               <l>Three yeeres are now expir'd, and yet at length,</l>
+               <l>Thy griefe decayes no jot, but gathers ſtrength:</l>
+               <l>Cuſtome hath ſo prevail'd, that now 'tis growne,</l>
+               <l>To make thee thinke it ſhame to ceaſe thy moane:</l>
+               <l>For as all vices entering our breſt</l>
+               <l>Take root, if they at firſt be not ſuppreſt;</l>
+               <l>So this and ſuch like wilfull diſcontent,</l>
+               <l>Raging againſt it ſelfe, findes nouriſhment</l>
+               <l>In its owne bane, ſorrow that knowes no meaſure,</l>
+               <l>Becomes the wretched creatures deadly pleaſure.</l>
+               <l>I therefore could have wiſht, I had begun</l>
+               <l>This cure betimes, it had been eaſely done;</l>
+               <l>A wound yet greene, the Surgeon may be bold</l>
+               <l>To ſeare it and to ſearch it, but growne old,</l>
+               <l>And to an ulcer bred, he muſt be faine</l>
+               <l>To do't with more advice and greater paine;</l>
+               <l>I cannot, as I might have done at firſt,</l>
+               <l>Heale up thy griefe with eaſe, it muſt be burſt.</l>
+            </div>
+            <div n="2" type="chapter">
+               <head>Cap. 2</head>
+               <l>I Know that ſuch as to adviſe intend, </l>
+               <l>Begin with Precepts, with Examples end,</l>
+               <l>I muſt invert this order, for there's need,</l>
+               <l>That diverſly with divers we proceed;</l>
+               <l>Reaſon prevailes with ſome, others muſt heare</l>
+               <l>Of famous perſons, that their mindes may reare,</l>
+               <l>To things of ſplendour, therefore Ile produce</l>
+               <l>Two maine examples proper for our uſe,</l>
+               <l>And both of thine owne Sexe and of this age;</l>
+               <l>The firſt's of one that unto ſorrowes rage,</l>
+               <l>Expos'd her ſelfe; the ſecond's of another,</l>
+               <pb n="5" facs="tcp:177879:5"/>
+               <l>Who in a greater loſſe did wiſely ſmother</l>
+               <l>Her paſſions, not permitting them to ſway,</l>
+               <l>But ſoone reduc'd her thoughts into the way.</l>
+               <l>Theſe were no meaner pers'nages in life,</l>
+               <l>Then great <hi>Augustus</hi> ſiſter and his wife;</l>
+               <l>Both loſt their ſonnes young and of faire renowne,</l>
+               <l>Equall in hope t'have worne th'imperiall Crowne:</l>
+               <l>
+                  <hi>Octavia</hi> loſt <hi>Marcellus, Caeſars</hi> joy,</l>
+               <l>Whom as a helpe he had begun t'imploy</l>
+               <l>In ſtate affaires, he was a Youth of rare</l>
+               <l>Conceit and Judgement, and paſt all compare,</l>
+               <l>Weighing his yeeres and fortunes for his gift,</l>
+               <l>Of continence and well-beſeeming thrift:</l>
+               <l>Patient of toyle, to no delights betray'd,</l>
+               <l>Able to beare what ere his Vncle laid,</l>
+               <l>(Or as I may ſo ſay without the guilt</l>
+               <l>Of flattery) upon his ſhoulders built,</l>
+               <l>Whoſe choife was not with partiall conceit,</l>
+               <l>For ſure he was a baſe for any weight.</l>
+               <l>So deepely did the Mother apprehend</l>
+               <l>This Princes death, that ſhe would never lend</l>
+               <l>An eare to any comfort, but was all</l>
+               <l>Her life time ſuch as at his Funerall;</l>
+               <l>Griefe did enthrall her thoughts, which Ile not ſay</l>
+               <l>She durſt not, but refus'd to diſobey;</l>
+               <l>Accounting it a ſecond deprivation,</l>
+               <l>To ceaſe from her reſolved lamentation,</l>
+               <l>No picture ever of her deareſt Sonne</l>
+               <l>Would ſhe behold, but his remembrance ſhun,</l>
+               <l>Envy'ng all Mothers, and was moſt offended</l>
+               <l>With <hi>Livia,</hi> to whom ſhe ſaw deſcended,</l>
+               <l>The happineſſe ſhe lookt t'have cal'd her owne,</l>
+               <pb n="6" facs="tcp:177879:6"/>
+               <l>Her whole deſire was ſtill to be alone,</l>
+               <l>Flying the light, and minding not the layes</l>
+               <l>That were compoſed in <hi>Marcellus</hi> praiſe.</l>
+               <l>And careleſſe of all publike rites, would hate</l>
+               <l>The too much glory of his Brothers ſtate,</l>
+               <l>Whereof toth end ſhe might her ſelfe deprive,</l>
+               <l>Shee ſeemed then to be interr'd alive.</l>
+               <l>Nor could her Daughters bringing to her ſight,</l>
+               <l>Their Children daily, change her mournefull plight,</l>
+               <l>Who deem'd her ſelfe, to their reproach bereft,</l>
+               <l>Although ſhe ſaw them all in ſafety left.</l>
+            </div>
+            <div n="3" type="chapter">
+               <head>Cap. 3</head>
+               <l>SO one after this was <hi>Livia's</hi> patience try'd, </l>
+               <l>By the like fatall blow, for <hi>Druſus</hi> dy'd,</l>
+               <l>A famous Captaine then, and like to be</l>
+               <l>Inheritor of <hi>Caeſars</hi> dignitie;</l>
+               <l>Who with ſucceſſefull fortune did invade</l>
+               <l>The heart of <hi>Germanie,</hi> and there diſplay'd</l>
+               <l>The <hi>Roman</hi> Enſignes, where the <hi>Roman</hi> name</l>
+               <l>Was hardly knowne, ſo freely was his fame</l>
+               <l>Acknowledg'd by his very enemies,</l>
+               <l>That they admir'd his daring enterpriſe,</l>
+               <l>And in his ſickneſſe mutuall greetings ſent,</l>
+               <l>Scarſe wiſhing that was moſt expedient:</l>
+               <l>And at his death caus'd for his Countries ſake,</l>
+               <l>Came people from all quarters to partake</l>
+               <l>Of Funerall Duties, who in great remorſe,</l>
+               <l>Did Triumph-like to <hi>Rome</hi> conduct the Coarſe.</l>
+               <l>His Mother, as each tender Parent wiſhes,</l>
+               <l>Had not the meanes to enjoy his lateſt kiſſes;</l>
+               <l>But waiting on the Body many a mile,</l>
+               <l>Was as ſhe went by every flaming pile,</l>
+               <pb n="7" facs="tcp:177879:6"/>
+               <l>So often put in mind of her dead Sonne,</l>
+               <l>Yet ſhe when once the obſequies were done,</l>
+               <l>Him and her ſorrow buried in one Grave,</l>
+               <l>And wept no more than decencie might crave,</l>
+               <l>Or then became great <hi>Caeſars</hi> Majeſtie,</l>
+               <l>And therefore ceaſed not to magnifie</l>
+               <l>The Acts of <hi>Druſus,</hi> whereſoere ſhe came,</l>
+               <l>And willingly to ſpeake and heare his name.</l>
+               <l>Whereas none could make mention of the other,</l>
+               <l>But it begat new ſorrow in the Mother.</l>
+               <l>Chooſe then by which Example thou'lt be led,</l>
+               <l>If by the firſt, eſteeme thy ſelfe but dead;</l>
+               <l>All Children will avoid thee, and thy ſight</l>
+               <l>As ominous, all Mothers will affright;</l>
+               <l>No ſolace will ſeeme fit, thou'lt hate the Sunne,</l>
+               <l>And curſe thy yeeres that will no faſter runne,</l>
+               <l>And which is worſt, and moſt againſt thy mind,</l>
+               <l>Knowne in the better part, the world may find,</l>
+               <l>And by thy carriage plainly will deſcry,</l>
+               <l>Thou wouldſt no longer live, yet canſt not dye.</l>
+               <l>But if this famous Queene thou'lt imitate,</l>
+               <l>Thou ſhalt not dwell in woe, nor macerate</l>
+               <l>Thy ſelfe with cares, 'tis madneſſe to increaſe</l>
+               <l>Our owne regret and hinder our owne peace;</l>
+               <l>That temper which in thee hath erſt beene knowne,</l>
+               <l>Thou'lt keepe, for modeſty in griefe is ſhowne;</l>
+               <l>And even the Youth himſelfe worthy of reſt,</l>
+               <l>By glad remembrance thou wilt make more bleſt.</l>
+            </div>
+            <div n="4" type="chapter">
+               <head>Cap. 4</head>
+               <l>I Will not by more powerfull preſidents, </l>
+               <l>Attempt to make thee beare humane events,</l>
+               <l>Inhumanely, to dry a Mothers eyes,</l>
+               <pb n="8" facs="tcp:177879:7"/>
+               <l>Vpon the day of her ſonnes obſequies;</l>
+               <l>Ile put the caſe, the queſtion is we ſee,</l>
+               <l>Whether that griefe ſhould great or endleſſe be;</l>
+               <l>I make no doubt but thou do'ſt moſt approve</l>
+               <l>
+                  <hi>Livia's</hi> example, whom thou well didſt love.</l>
+               <l>Shee calls thee to her counſels, who at firſt,</l>
+               <l>When ſorrowes raging fury was at worſt,</l>
+               <l>Was willing for her comfort to conferre,</l>
+               <l>With Learned <hi>Arêus</hi> the Philoſopher,</l>
+               <l>Which ſhe confeſt afforded much reliefe,</l>
+               <l>More than the <hi>Roman</hi> people, whom her griefe,</l>
+               <l>Would have dejected, more than <hi>Caeſars</hi> ſtate</l>
+               <l>Which teares of friends ought not to aggravate,</l>
+               <l>Crazed already with that fatall blow,</l>
+               <l>More than <hi>Tiberius,</hi> whoſe deſerts did ſhow,</l>
+               <l>That in that great and generall diſtreſſe,</l>
+               <l>Shee was in nothing but in number leſſe.</l>
+               <l>Thus <hi>Arêus</hi> began (as I ſuppoſe)</l>
+               <l>And with his due obſerver thus did cloſe:</l>
+               <l>
+                  <hi>Vnto this day (for what I ere could ſee)</hi>
+               </l>
+               <l>
+                  <hi>Who ſtill have kept thy Husband company,</hi>
+               </l>
+               <l>
+                  <hi>And not your publique buſineſses alone,</hi>
+               </l>
+               <l>
+                  <hi>But even your priuate conſultations knowne:</hi>
+               </l>
+               <l>
+                  <hi>Thou hast endeavour'd</hi> (Livia) <hi>to commit</hi>
+               </l>
+               <l>
+                  <hi>Nothing that juſtly might be thought unfit,</hi>
+               </l>
+               <l>
+                  <hi>And not in great things onely, but in ſmall,</hi>
+               </l>
+               <l>
+                  <hi>Th'haſt taken care, to doe no act at all,</hi>
+               </l>
+               <l>
+                  <hi>That the bold cenſurer of Princes, Fame,</hi>
+               </l>
+               <l>
+                  <hi>Should need to give thee pardon for the ſame;</hi>
+               </l>
+               <l>
+                  <hi>And ſure I thinke that no one thing doth grace,</hi>
+               </l>
+               <l>
+                  <hi>Such as are ſet in high and publique place,</hi>
+               </l>
+               <l>
+                  <hi>More, than to give free pardon unto many,</hi>
+               </l>
+               <pb n="9" facs="tcp:177879:7"/>
+               <l>
+                  <hi>And yet themſelves not aske the ſame of any:</hi>
+               </l>
+               <l>
+                  <hi>Wherefore obſerve herein thy wonted guiſe,</hi>
+               </l>
+               <l>
+                  <hi>Doe naught thou'dſt wiſh</hi> undone, <hi>or</hi> otherwiſe.</l>
+            </div>
+            <div n="5" type="chapter">
+               <head>Cap. 5</head>
+               <l>
+                  <hi>NExt I intreat thee that thou wouldst not be,</hi> 
+               </l>
+               <l>
+                  <hi>Harſh to thoſe friends that come to viſit thee,</hi>
+               </l>
+               <l>
+                  <hi>Who as thou ſeest are doubtfull what to doe,</hi>
+               </l>
+               <l>
+                  <hi>Whether to ſpeake of</hi> Druſus, <hi>yea or no,</hi>
+               </l>
+               <l>
+                  <hi>Least ſilence ſhould deprive him of his due,</hi>
+               </l>
+               <l>
+                  <hi>Or mention of him, griefe in thee renue.</hi>
+               </l>
+               <l>
+                  <hi>Wee when wee meet, his memory retaine,</hi>
+               </l>
+               <l>
+                  <hi>But before thee in ſilence deepe remaine.</hi>
+               </l>
+               <l>
+                  <hi>Thus want'ſt thou great contentment, thy Sonnes praiſe,</hi>
+               </l>
+               <l>
+                  <hi>Which doubtleſſe thou wouldst with thy hazard raiſe,</hi>
+               </l>
+               <l>
+                  <hi>If ſo thou might'ſt to all eternitie,</hi>
+               </l>
+               <l>
+                  <hi>Wherefore permit, or rather call to thee,</hi>
+               </l>
+               <l>
+                  <hi>Such as are willing to repeat his Name,</hi>
+               </l>
+               <l>
+                  <hi>And open thou thine eares to heare the ſame,</hi>
+               </l>
+               <l>
+                  <hi>And doe not thinke it irkeſome, like to thoſe,</hi>
+               </l>
+               <l>
+                  <hi>That all advice part of their ill ſuppoſe.</hi>
+               </l>
+               <l>
+                  <hi>Th'haſt hitherto the other part intended,</hi>
+               </l>
+               <l>
+                  <hi>And in the worst thy fortune apprehended;</hi>
+               </l>
+               <l>
+                  <hi>Not looking on the pleaſures of thy Sonne,</hi>
+               </l>
+               <l>
+                  <hi>His life, his love, his ſtudies well begunne.</hi>
+               </l>
+               <l>
+                  <hi>Thy thought inſists on death, the last of things,</hi>
+               </l>
+               <l>
+                  <hi>Whereto, as that were not enough it brings</hi>
+               </l>
+               <l>
+                  <hi>All that it can collect, as if thereby,</hi>
+               </l>
+               <l>
+                  <hi>Thou wouldst be famous for thy miſery.</hi>
+               </l>
+            </div>
+            <div n="6" type="chapter">
+               <head>Cap. 6</head>
+               <l>
+                  <hi>THinke with thy ſelfe that courage is not ſhowne,</hi> 
+               </l>
+               <l>
+                  <hi>In actions of proſperity alone,</hi>
+               </l>
+               <l>
+                  <hi>Nor can we well diſcerne a Pilots skill,</hi>
+               </l>
+               <l>
+                  <hi>When winds blow faire, or when the Seas are ſtill;</hi>
+               </l>
+               <pb n="10" facs="tcp:177879:8"/>
+               <l>
+                  <hi>It is adverſity that must expreſse</hi>
+               </l>
+               <l>
+                  <hi>A conſtancie of minde, and not ſucceſſe.</hi>
+               </l>
+               <l>
+                  <hi>Stoope not therefore, but beare thy ſelfe upright,</hi>
+               </l>
+               <l>
+                  <hi>And though at firſt the noyſe may thee affright,</hi>
+               </l>
+               <l>
+                  <hi>Endure whatever fortune hath deſign'd,</hi>
+               </l>
+               <l>
+                  <hi>Shee's nere o're-matcht but by an equall mind.</hi>
+               </l>
+               <l>Hee ſhew'd her then her Sonne that did ſurvive,</l>
+               <l>And all her dead Sonnes Children yet alive.</l>
+               <l>Behold thine owne caſe <hi>Marcia; Arêus</hi> came</l>
+               <l>To comfort thee, though in another name:</l>
+               <l>And that I may not flatter thee, admit</l>
+               <l>Thy loſſe ſo great, that none can equall it;</l>
+               <l>If teares can Fate o're-come, let's all conſent</l>
+               <l>To ſpend the day in mournefull languiſhment;</l>
+               <l>Let anguiſh all night long deny us reſt,</l>
+               <l>And let our hands aſſault our wounded breſt,</l>
+               <l>Let furie ſeize our face, and let all kind</l>
+               <l>Of cruelty be us'd that griefe can find:</l>
+               <l>But if no ſorrow can the dead recall,</l>
+               <l>If fate be ever fixt, not mov'd at all,</l>
+               <l>And Death what once it gets, doth ſtill retaine,</l>
+               <l>Let paſſions ceaſe as altogether vaine;</l>
+               <l>And let's be wiſe, not ſuffering our ſenſe,</l>
+               <l>To be tranſported with this violence:</l>
+               <l>It is a ſhame to ſee a Pilot quit</l>
+               <l>His neceſſary charge, and to remit</l>
+               <l>His floating ſhip unto the Tempeſts rage,</l>
+               <l>Not daring in the ſtorme himſelfe t'ingage;</l>
+               <l>Whereas he praiſe deſerves that holds the helme,</l>
+               <l>And ſhip-wrackt, ſtrives till Seas him overwhelme.</l>
+               <pb n="11" facs="tcp:177879:8"/>
+            </div>
+            <div n="9" type="chapter">
+               <head>Cap. 9</head>
+               <l>BUt it is naturall, when deare friends dye, </l>
+               <l>To mourne I yeeld, if done with modeſty;</l>
+               <l>And not then only, but when urgent reaſon</l>
+               <l>Requires their abſence from us for a ſeaſon;</l>
+               <l>The firmeſt thoughts at parting will relent,</l>
+               <l>And with a kind of griefe the ſame reſent:</l>
+               <l>But now opinion hath ſuggeſted more</l>
+               <l>Then Nature ere requir'd of us before;</l>
+               <l>Behold the paſſions of bruit beaſts, how ſtrong</l>
+               <l>And violent they are, yet laſt not long.</l>
+               <l>The Cow but for a time is heard to low,</l>
+               <l>And Mares to neigh, and wander to and fro,</l>
+               <l>Wild Beaſts purſuing the vaſt Woods about</l>
+               <l>The foot-ſteps of their young, to find them out,</l>
+               <l>Doe oft review their ſpoiled Dens in rage,</l>
+               <l>But in ſhort time their wrath doth quite aſſwage.</l>
+               <l>Birds haunt their empty neſts in dolefull plight,</l>
+               <l>Yet ſoone appeas'd, reſume their wonted flight.</l>
+               <l>No creature ſo bewailes his young ones loſſe,</l>
+               <l>As man, who even nouriſheth his croſſe,</l>
+               <l>Lamenting not according to the ill</l>
+               <l>He feeleth, but according to his will.</l>
+               <l>And that it may appeare thus to inthrall</l>
+               <l>Our ſelves to griefe, not to be naturall;</l>
+               <l>Firſt, Women are more ſubject to ſuch paſſions</l>
+               <l>Than men, the wild and barbarous Nations</l>
+               <l>More than the civill, th'ignorant and rude</l>
+               <l>More than ſuch as with learning are endu'd,</l>
+               <l>Whilſt Nature holds the ſelfe-ſame force in all,</l>
+               <l>That which is various is not naturall:</l>
+               <l>Fire burnes all people at all times alike</l>
+               <l>Both men and women, irons force doth ſtrike,</l>
+               <pb n="12" facs="tcp:177879:9"/>
+               <l>And cut all bodies of like mixture, why?</l>
+               <l>Nature can never change her property.</l>
+               <l>Want, loſſe of Children grievouſly affect</l>
+               <l>This, or that man, whil'ſt ſome the ſame neglect:</l>
+               <l>As cuſtome and opinion make them ſeeme,</l>
+               <l>More or leſſe terrible, ſo men them deeme.</l>
+            </div>
+            <div n="8" type="chapter">
+               <head>Cap. 8</head>
+               <l>YEa further what is naturall abides, </l>
+               <l>But time conſumes all ſadneſſe, and provides</l>
+               <l>A remedy by ſorrow-healing age,</l>
+               <l>Againſt the moſt perverſe unbridled rage.</l>
+               <l>Thy griefe continues great, growne hard of late,</l>
+               <l>Not furious as at firſt, but obſtinate;</l>
+               <l>Yet that by ſlow degrees an end ſhall find,</l>
+               <l>All buſineſſe will at preſent eaſe thy mind.</l>
+               <l>Now thou doſt watch that naught might thee relieve,</l>
+               <l>But whether thou command'ſt thy ſelfe to grieve,</l>
+               <l>Or whether onely thou permit'ſt the ſame,</l>
+               <l>Is that which more or leſſe augments thy blame.</l>
+               <l>How much more would it to thine honour tend,</l>
+               <l>Rather to give, than to receive an end?</l>
+               <l>Rather to quit thy ſorrow, than to ſtay,</l>
+               <l>Vntill againſt thy will it we are away.</l>
+            </div>
+            <div n="9" type="chapter">
+               <head>Cap. 9</head>
+               <l>WHence comes it then, if not from Natures will,</l>
+               <l>That we ſo grievouſly bewaile our ill?</l>
+               <l>The reaſon is, we never doe preſent</l>
+               <l>Miſchances to our thoughts before th'event,</l>
+               <l>And as it were exempted from ſuch croſſes,</l>
+               <l>No warning take by others frequent loſſes.</l>
+               <l>How many Funerals paſſe by our doore?</l>
+               <l>Yet we on death thinke not a jot the more.</l>
+               <pb n="13" facs="tcp:177879:9"/>
+               <l>While others Children goe unto the grave,</l>
+               <l>We thinke what honours, riches, ours ſhall have.</l>
+               <l>How many rich men have we ſeene grow poore,</l>
+               <l>Yet thinke of no decay of our owne ſtore?</l>
+               <l>Needs muſt we therefore tumble to the ground,</l>
+               <l>What ſtrikes us unawares doth moſt confound:</l>
+               <l>Miſhaps fall lightly on us, when our care</l>
+               <l>Foreſeeing them hath taught us to prepare.</l>
+               <l>But would'ſt thou know thy danger, that the Dart</l>
+               <l>That wounds another, might have pierc't thy heart?</l>
+               <l>As one unarm'd approaching neere a wall,</l>
+               <l>Whence ſhot and ſtones in great abundance fall,</l>
+               <l>Expect a wound, and when the Arrowes flye</l>
+               <l>Before thee and behind thee, boldly cry,</l>
+               <l>Fortune I am prepar'd, and though I ſee</l>
+               <l>Thou hitſt another, yet thou aim'dſt at me.</l>
+               <l>Who is there, that his owne hath lookt upon,</l>
+               <l>As a thing periſhing and quickly gone?</l>
+               <l>Who is there, that before-hand was content</l>
+               <l>To thinke of want, of death, or baniſhment?</l>
+               <l>Or who is he, that having been advis'd</l>
+               <l>What may befall, hath not the ſame deſpis'd,</l>
+               <l>And wiſht it on his foe, or on the head</l>
+               <l>Of him perhaps that ſo admoniſhed:</l>
+               <l>But ſtrucken once, will then cry out alas,</l>
+               <l>I never thought it would have come to paſſe;</l>
+               <l>As if one could be ſafe againſt what may,</l>
+               <l>And doth to many happen every day.</l>
+               <l>It is a Verſe that <hi>Publius</hi> Name advanceth,</l>
+               <l>
+                  <hi>That may to all that unto one man chanceth.</hi>
+               </l>
+               <l>One hath his Children loſt, thine ſlaine may be,</l>
+               <l>This mans condemn'd, thine innocence not free.</l>
+               <pb n="14" facs="tcp:177879:10"/>
+               <l>This errour doth our miſery procure,</l>
+               <l>Enduring what we thought not to endure:</l>
+               <l>Whereas the fore-ſight of a future blow,</l>
+               <l>Doth mitigate the force of preſent woe.</l>
+            </div>
+            <div n="10" type="chapter">
+               <head>Cap. 10</head>
+               <l>THeſe goods of fortune that about us ſhine, </l>
+               <l>As Children, Honours, Riches, and a fine</l>
+               <l>And noble Wife, faire Palaces, and ſtore</l>
+               <l>Of Suitors, that attend us at our doore,</l>
+               <l>With all things elſe that are from fortune ſent,</l>
+               <l>Are ornaments not given us, but lent,</l>
+               <l>Our Scene therewith is for the time adorn'd,</l>
+               <l>Then to the owners backe they are return'd:</l>
+               <l>Some ſtay a day, ſome more, few to the end,</l>
+               <l>We cannot boaſt them ours, what others lend;</l>
+               <l>The uſe is ours during the owners will,</l>
+               <l>What's borrow'd for uncertaine time muſt ſtill</l>
+               <l>Be ready without ſtrife to be repay'd,</l>
+               <l>No debtor ſhould his creditor upbray'd,</l>
+               <l>We muſt our Parents then ſo love, and thoſe</l>
+               <l>Who by the Law of Nature we ſuppoſe</l>
+               <l>Will out-live us, as of their lives increaſe,</l>
+               <l>We had no promiſe of the ſhorteſt leaſe:</l>
+               <l>And all theſe humane things muſt ſo receive,</l>
+               <l>As at the inſtant we the ſame ſhould leave:</l>
+               <l>Let's not deferre, but take our preſent pleaſure</l>
+               <l>Of Parents, Children, and of worldly treaſure,</l>
+               <l>For Death's at hand, and nothings in our power,</l>
+               <l>To hold (a day were too much time) an houre,</l>
+               <l>There is a ſudden change of all delight,</l>
+               <l>Our life is not a paſſage but a flight.</l>
+               <l>Know then if thou beway leſt thy Sonnes death,</l>
+               <pb n="15" facs="tcp:177879:10"/>
+               <l>The fault was in the time that gave him breath,</l>
+               <l>'Twas then decree'd, on thoſe conditions he</l>
+               <l>Came forth thy wombe, and firſt was given thee.</l>
+               <l>Into her Kingdome Fortune all men brings,</l>
+               <l>To ſuffer worthy and unworthy things,</l>
+               <l>When they all kind of miſery endure,</l>
+               <l>Some feele the fire for puniſhment or cure,</l>
+               <l>To ſome ſhe makes the Sea become their graves,</l>
+               <l>And having ſtruggled with the raging waves,</l>
+               <l>She doth not drive them to the ſhore at laſt,</l>
+               <l>But into ſome Sea-Monſters belly caſt,</l>
+               <l>Others with ſickneſſe waſted ſhe doth hold,</l>
+               <l>Long between life and death, and uncontrol'd,</l>
+               <l>Uſing her wretched vaſſals at her pleaſure,</l>
+               <l>In puniſhments and favours keepes no meaſure.</l>
+               <l>What need we then the parts of life lament,</l>
+               <l>When as the whole in miſery is ſpent;</l>
+               <l>New unexpected miſchiefs on us ſeize,</l>
+               <l>Before that we old ſorrowes can appeaſe,</l>
+               <l>Thou therefore muſt thy paſſions ſtill inure,</l>
+               <l>T'endure thoſe things that thou canſt leaſt endure:</l>
+               <l>And equally thy conſtant thoughts divide</l>
+               <l>'Twixt preſent ill, and that which may betide.</l>
+            </div>
+            <div n="11" type="chapter">
+               <head>Cap. 11</head>
+               <l>WHence then proceeds this ſtrange oblivion </l>
+               <l>Of thine and all the worlds condition?</l>
+               <l>Thou mortall art, and mortals haſt brought forth;</l>
+               <l>How couldſt thou hope, a body fram'd of earth</l>
+               <l>Subject to chance, to ſickneſſe and to paine,</l>
+               <l>Could ſolid, and eternall things containe.</l>
+               <l>Thy Sonne's departed, haſtned to that end,</l>
+               <l>To which all thoſe that now ſurvive him bend:</l>
+               <pb n="16" facs="tcp:177879:11"/>
+               <l>Even all thoſe troopes that wrangle at the barre,</l>
+               <l>That fill the Theaters, that proſtrate are</l>
+               <l>In Temples, death at ſundry times doth ſtrike,</l>
+               <l>The honour'd and deſpis'd ſhe maketh like.</l>
+               <l>
+                  <hi>Apollo's</hi> Oracle thou muſt fulfill,</l>
+               <l>
+                  <hi>Know thine owne ſelfe it is the chiefeſt skill.</hi>
+               </l>
+               <l>What's man? a veſſell broken with a knock,</l>
+               <l>Notable to endure a common ſhock:</l>
+               <l>By nature weake, on others aide depending,</l>
+               <l>And in his chiefeſt ſtrength himſelfe defending</l>
+               <l>Againſt a Savage Beaſt, becomes her prey,</l>
+               <l>His body is compos'd of mire and clay,</l>
+               <l>Though nere ſo neat, and comely to behold,</l>
+               <l>Impatient of toyle, of heat, or cold,</l>
+               <l>Whom very eaſe and reſt conſumes, and whom</l>
+               <l>The ſuſtenance he takes doth overcome,</l>
+               <l>Dying as well with ſurfeit as with want,</l>
+               <l>Whoſe ſoule ſuſpitious of her guard can ſcant</l>
+               <l>Be woo'd to ſtay, but oft leapes out for feare,</l>
+               <l>When as a ſuddaine noyſe doth ſtrike the eare.</l>
+               <l>Why doe we wonder at the death of one?</l>
+               <l>When as the ſame can be eſcapt by none:</l>
+               <l>There needs no great adoe, the ſmell, the taſte,</l>
+               <l>Watching, and wearineſſe, mans life doth waſte;</l>
+               <l>Humours and meates that doe maintaine his breath,</l>
+               <l>Become at length the cauſes of his death,</l>
+               <l>Where ere he goes, his weakneſſe he may find,</l>
+               <l>In change of Aire, of Water, and of Wind</l>
+               <l>Not us'd unto, in every thing appeares</l>
+               <l>The frailty of his life begun in teares.</l>
+               <l>And yet what Tumults doth this vile wretch move?</l>
+               <l>What thoughts he harbours in him, farre above</l>
+               <pb n="17" facs="tcp:177879:11"/>
+               <l>His ſeely reach, and how doth he deviſe</l>
+               <l>To Childrens Children perpetuities:</l>
+               <l>And while hee's buſi'd in his vaine pretence,</l>
+               <l>Death unexpected comes and takes him hence,</l>
+               <l>And that which we call age, is at the moſt</l>
+               <l>The courſe of ſome few yeeres, that ſwiftly poſt.</l>
+            </div>
+            <div n="12" type="chapter">
+               <head>Cap. 12</head>
+               <l>TEll me (O <hi>Marcia</hi>) if at leaſt there be</l>
+               <l>A reaſon of the griefe which troubles thee, </l>
+               <l>Whether the ſame thy dammage doe reſpect,</l>
+               <l>Or moſt on thy deceaſed ſonne reflect;</l>
+               <l>Is it that thou no pleaſure yet haſt gain'd,</l>
+               <l>Or that thou might'ſt, if he had ſtill remain'd?</l>
+               <l>If't be confeſt none hitherto t'have had,</l>
+               <l>Thy loſſe then doubtleſſe is not halfe ſo bad.</l>
+               <l>Men have thoſe things more willingly forſaken,</l>
+               <l>Wherein they have but little pleaſure taken.</l>
+               <l>But if thou ſay'ſt th'hadſt joy in him before,</l>
+               <l>Give thankes for that, grudge not t'have had no more.</l>
+               <l>His very education was gaines,</l>
+               <l>Sufficient for all thy care and paines,</l>
+               <l>Vnleſſe thou't ſay that thoſe which nouriſh whelps</l>
+               <l>And little Birds, with all ſuch flattering helps</l>
+               <l>Of divers minds, doe in the touch, or ſight,</l>
+               <l>Or fawning of mute creatures take delight,</l>
+               <l>And that our childrens education,</l>
+               <l>Is not ſufficient fruit thereof alone.</l>
+               <l>Then though his labour, diligence, and wit</l>
+               <l>Did not redound unto thy benefit,</l>
+               <l>Yet certainely ſome fruit from hence doth grow,</l>
+               <l>T'have had him once, and to have lov'd him ſo.</l>
+               <l>But he might have increa'ſt in yeeres, and worth,</l>
+               <pb n="18" facs="tcp:177879:12"/>
+               <l>'Tis better yet than not t'have brought him forth,</l>
+               <l>For were it in our choiſe, whether that we</l>
+               <l>Would not at all or not long happy be,</l>
+               <l>We ſhould deſire, rather than none, t'accept</l>
+               <l>A benefit that could not long be kept:</l>
+               <l>Doubtleſſe thou wouldſt not wiſh t'have had a Son,</l>
+               <l>Whoſe ill conditions and lewd courſes run,</l>
+               <l>Would have but made him beare the empty name,</l>
+               <l>Rather than thine that ſo adorn'd the ſame.</l>
+               <l>A young man quickly wiſe, and ſoone devout,</l>
+               <l>A husband, and a father ſoone, and out</l>
+               <l>Of knowledge of his worth, ſoone made a Prieſt,</l>
+               <l>And in all good things elſe as quickly bleſt.</l>
+               <l>No great felicity can long remaine,</l>
+               <l>Men may perhaps a Common good retaine,</l>
+               <l>The Gods, who length of dayes to him deny'd,</l>
+               <l>With ages full perfection that ſupply'd.</l>
+               <l>Nor canſt thou ſay, that thou alone by Fate</l>
+               <l>Art thus deſign'd to be unfortunate;</l>
+               <l>Looke round about, and thou ſhalt eaſely find</l>
+               <l>In every place examples of this kind;</l>
+               <l>Captaines, and Princes, yea as Poets write,</l>
+               <l>The Gods themſelves are not exempted quite;</l>
+               <l>Which they the rather would have us beleeve,</l>
+               <l>That we with ſuch partakers leſſe might grieve.</l>
+               <l>Looke round I ſay, and ſee if thou canſt ſpy</l>
+               <l>A houſe afflicted with ſuch miſery,</l>
+               <l>That doth-not find a kind of eaſe, to know</l>
+               <l>Another plunged in a greater woe.</l>
+               <l>Though I of thee have no ſuch ill conceit</l>
+               <l>To thinke that others woes ſhould thine abate,</l>
+               <l>To heare of many mourners is at beſt</l>
+               <pb n="19" facs="tcp:177879:12"/>
+               <l>But envious comfort to a mournefull breſt,</l>
+               <l>Yet ſome I will repeat, not to th'intent</l>
+               <l>To ſhew that this to man is incident,</l>
+               <l>For that were folly, but to ſhew how ſome</l>
+               <l>By bearing, have afflictions overcome.</l>
+               <l>And herein <hi>Lucius Sylla</hi> ſhall be firſt,</l>
+               <l>Who loſt his Sonne, which did not ſlacke his thirſt</l>
+               <l>Of vengeance to his foes, nor any way</l>
+               <l>His fury to the Citizens allay;</l>
+               <l>But after his great loſſe as fully bore</l>
+               <l>The Sir-name <hi>Happy,</hi> as he did before,</l>
+               <l>And on mens ruines building his ſucceſſe,</l>
+               <l>Their hatred his deſpis'd, and ſcorn'd no leſſe</l>
+               <l>The very env<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Gods, whoſe crime</l>
+               <l>It was that <hi>Sylla</hi> to that height did clime.</l>
+               <l>Yet here I will not cenſure but let paſſe</l>
+               <l>As yet a thing uniudg'd what <hi>Sylla</hi> was,</l>
+               <l>Although his foes confeſſe to his renowne</l>
+               <l>He both tooke up Armes well, and laid them downe:</l>
+               <l>I onely prove the ſame not ill to be,</l>
+               <l>That may concurre with great felicity.</l>
+               <l>And therefore let not <hi>Greece</hi> too much admire</l>
+               <l>Her <hi>Xenophon,</hi> who at the holy fire</l>
+               <l>And as he was about his Sacrifice,</l>
+               <l>Of his Sonnes death received ſure adviſe,</l>
+               <l>Who onely bidding then the muſicke ceaſe,</l>
+               <l>And taking from his head the Crowne, made peace</l>
+               <l>With all his riſing paſſions inſtantly,</l>
+               <l>And ſo accompliſht the ſolemnity.</l>
+            </div>
+            <div n="13" type="chapter">
+               <head>Cap. 13</head>
+               <l>OUr owne high Prieſt <hi>Puluillus</hi> did the ſame, </l>
+               <l>To whom the tidings of his Sonnes death came,</l>
+               <pb n="20" facs="tcp:177879:13"/>
+               <l>Even in the midſt of that moſt ſolemne ſtate,</l>
+               <l>When he the Capitoll did conſecrate,</l>
+               <l>Whereof he tooke no notice, but went on,</l>
+               <l>Chanting the Hymne of Conſecration,</l>
+               <l>And without ſigne of griefe devoutly pray'd</l>
+               <l>To <hi>Iupiter</hi> the Common-wealth to aide.</l>
+               <l>Could'ſt thou conceive that ſorrow like t'abide,</l>
+               <l>Which he at firſt aſſault ſo well did hide?</l>
+               <l>He worthy was to be ſo highly imploy'd,</l>
+               <l>And worthy of the Prieſt-hood he enjoy'd,</l>
+               <l>Who in a conſtant zeale did not forbeare</l>
+               <l>To ſerve the Gods, yea when they angry were:</l>
+               <l>Yet comming home he mourn'd, and teares let fall,</l>
+               <l>And having done the rites of Funerall,</l>
+               <l>Vnto the Capitoll againe return'd,</l>
+               <l>With chearefull looks as though he had not mourn'd.</l>
+               <l>
+                  <hi>Paulus Emilius,</hi> when he captive led</l>
+               <l>King <hi>Perſeus</hi> in ſuch Triumph, buried</l>
+               <l>The Sonnes that wholly he rely'd upon,</l>
+               <l>When all the reſt were in adoption;</l>
+               <l>What they were whom he kept thou may'ſt ſuppoſe,</l>
+               <l>When <hi>Scipio</hi> himſelfe was one of thoſe</l>
+               <l>Were given away, it was no ſmall regret,</l>
+               <l>To ſee him in his empty Chariot ſet:</l>
+               <l>Yet he diſcours'd, and thankt the Gods that gave</l>
+               <l>Him his deſire, who oftentimes would crave,</l>
+               <l>That if perchance they ſhould ſome ill pretend</l>
+               <l>After ſo great a Victory to ſend,</l>
+               <l>It rather might upon himſelfe redound,</l>
+               <l>Than any way the Common-wealth to wound.</l>
+               <l>How bravely did he beare that ſtroke of Fate,</l>
+               <l>Who did his Childrens deaths congratulate:</l>
+               <pb n="21" facs="tcp:177879:13"/>
+               <l>No ſtranger chance could any man betide,</l>
+               <l>He loſt his comforts and his helpes beſide;</l>
+               <l>Yet notwithſtanding <hi>Perſeus</hi> never had</l>
+               <l>The happineſſe, to ſee <hi>Emilius</hi> ſad.</l>
+            </div>
+            <div n="14" type="chapter">
+               <head>Cap. 14</head>
+               <l>WHat ſhould I need to urge a multitude</l>
+               <l>Of preſidents, by fortune ſo purſude? </l>
+               <l>As if it were not harder farre to name</l>
+               <l>Them, upon whom misfortunes never came.</l>
+               <l>Survey the <hi>Conſulls, Lucius Bibulus</hi>
+               </l>
+               <l>And <hi>Caius Caeſar</hi> have been dealt with thus;</l>
+               <l>Two colleagues that were enemies profeſt,</l>
+               <l>Yet both by Fortune equally oppreſt.</l>
+               <l>
+                  <hi>Lucius</hi> a man for honeſty commended</l>
+               <l>Rather than valour, had two Sonnes that ended</l>
+               <l>Their lives at once, and that which to be borne</l>
+               <l>Was worſe than death, they both were made a ſcorne</l>
+               <l>To an Aegyptian Souldier who them ſlew,</l>
+               <l>Yet he, who all that yeere himfelfe with-drew</l>
+               <l>To ſhun his fellowes envie, did for all</l>
+               <l>The newes of ſuch a double Funerall</l>
+               <l>Come forth the next day, and with cheerefull face</l>
+               <l>Perform'd the publike duties of his place:</l>
+               <l>He might bewaile one day his two ſonnes fate,</l>
+               <l>That did a yeere lament the Conſulate.</l>
+               <l>
+                  <hi>Caeſar,</hi> when he all <hi>Britanie</hi> ore-ran</l>
+               <l>With armes not bounded by the Ocean,</l>
+               <l>Heard of his Daughters death, whereon he knew</l>
+               <l>A publike dammage was moſt like t'enſue,</l>
+               <l>For he on <hi>Pompey</hi> quickly caſt his eyes</l>
+               <l>His Sonne in Law, who would have no man riſe</l>
+               <l>Beſide himſelfe, although ſo neere of kin,</l>
+               <pb n="22" facs="tcp:177879:14"/>
+               <l>That he might looke to have his ſhare therein;</l>
+               <l>Yet <hi>Caeſar</hi> that high charge perform'd againe.</l>
+               <l>Within three dayes, and did his griefe reſtraine,</l>
+               <l>As ſoone as he, the glory of our <hi>Rome,</hi>
+               </l>
+               <l>Was wont all other things to overcome.</l>
+            </div>
+            <div n="15" type="chapter">
+               <head>Cap. 15</head>
+               <l>WHat ſhould I other <hi>Caeſars</hi> deaths rehearſe, </l>
+               <l>'Gainſt whom the fates the rather have bin fierce,</l>
+               <l>To give the world a wholſome document,</l>
+               <l>Since they, who from the race of Gods were ſent</l>
+               <l>To propagate the ſame, could not command</l>
+               <l>Their owne, though others lives were in their hand.</l>
+               <l>Divine <hi>Augustus</hi> having beene depriv'd</l>
+               <l>Of Children and of Nephews too, reviv'd</l>
+               <l>Th'extinguiſht name of <hi>Caeſar,</hi> with a Sonne</l>
+               <l>Receiv'd into it by adoption:</l>
+               <l>Yet he endur'd it conſtantly, as one</l>
+               <l>That had his future intereſt fore-knowne,</l>
+               <l>And by his owne example would maintaine,</l>
+               <l>That no man ſhould againſt the Gods complaine.</l>
+               <l>
+                  <hi>Tiberius</hi> loſt both him that he begat,</l>
+               <l>And him that he adopted, yet thereat</l>
+               <l>Unmov'd, he o're the Corps of his dead Sonne,</l>
+               <l>Pronounc't the Funerall Oration,</l>
+               <l>Where but a vaile as then was requiſite,</l>
+               <l>Did hide the Body from the High Prieſts ſight,</l>
+               <l>And though the people round about him wept,</l>
+               <l>Yet he his countenance unclouded kept;</l>
+               <l>Letting <hi>Sejanus</hi> that ſtood next him know,</l>
+               <l>How eaſely he could any friend forgoe.</l>
+               <l>Thou ſeeſt how all theſe famous men have far'd,</l>
+               <l>Whom Fate for no reſpect of worth hath ſpar'd,</l>
+               <l>Which like a tempeſt with impetuous blaſt,</l>
+               <pb n="23" facs="tcp:177879:14"/>
+               <l>Flies round the World and all things down doth caſt,</l>
+               <l>And aske but any man the reaſon why,</l>
+               <l>The anſwer is, that all are borne to dye.</l>
+            </div>
+            <div n="16" type="chapter">
+               <head>Cap. 16</head>
+               <l>YEt here perchance thou'lt tell me, I forget</l>
+               <l>I comfort now a woman, ſince I ſet</l>
+               <l>Before thee mens examples, but let none</l>
+               <l>Imagine Nature hath leſſe favour ſhowne</l>
+               <l>To women, or their vertues more reſtrain'd,</l>
+               <l>In whom like power to goodneſſe is contain'd:</l>
+               <l>And who, beleeve me, can through cuſtome beare</l>
+               <l>Of griefe, and labour, equally their ſhare.</l>
+               <l>Where ſpeake I this (good Gods) but in that place</l>
+               <l>Where <hi>Brutus</hi> and <hi>Lucretia</hi> the race</l>
+               <l>Of Tyrants did expell? for as we know</l>
+               <l>That we our liberty to <hi>Brutus</hi> owe,</l>
+               <l>So we for <hi>Brutus</hi> are to <hi>Lucrece</hi> bound,</l>
+               <l>By whom ſo great a benefit wee found.</l>
+               <l>Where ſpeake I? but where <hi>Claelia</hi> the force</l>
+               <l>Of foe and flood contemning, rid her Horſe</l>
+               <l>Through <hi>Tiber,</hi> for which bold attempt each Pen</l>
+               <l>Rankes her amongſt the valianteſt of men:</l>
+               <l>Whoſe Statue fixed in the ſacred ſtreet,</l>
+               <l>Where frequently the <hi>Roman</hi> people meet,</l>
+               <l>Our young men in their Coaches doth upbraid,</l>
+               <l>When they on horſe-backe there behold a Maid.</l>
+               <l>But if examples thou deſir'ſt to have</l>
+               <l>Of women, that their Childrens deaths with brave</l>
+               <l>And conſtant minds have borne, we may find ſtore,</l>
+               <l>And need not beg the ſame from doore to doore.</l>
+               <l>One family had two <hi>Cornelia's,</hi>
+               </l>
+               <l>The firſt the Daughter of great <hi>Scipio</hi> was,</l>
+               <l>The <hi>Gracchi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Mother, who twelve Children bore,</l>
+               <pb n="24" facs="tcp:177879:15"/>
+               <l>And all againe did backe to Fate reſtore:</l>
+               <l>Often of them <hi>Rome</hi> little notice tooke,</l>
+               <l>And therefore ſhe their loſſe might eaſely brooke,</l>
+               <l>But <hi>Titus,</hi> and his Brother <hi>Caius,</hi> then</l>
+               <l>If not accounted good, yet famous men,</l>
+               <l>She both ſaw ſlaine, and for a grave at laſt,</l>
+               <l>Beheld their bodies into <hi>Tiber</hi> caſt;</l>
+               <l>Telling all thoſe that thought her in diſtreſſe,</l>
+               <l>And ſeem'd to pitty her unhappineſſe,</l>
+               <l>That ſhe unhappy never could be thought,</l>
+               <l>That had into the world the <hi>Gracchi</hi> brought.</l>
+               <l>The other ſaw her <hi>Livius Druſus</hi> dead,</l>
+               <l>A young man of great hope, that followed</l>
+               <l>The <hi>Gracchi's</hi> ſteps, who having then propounded</l>
+               <l>Some controverted Lawes, to death was wounded</l>
+               <l>In his owne houſe, the actor never knowne,</l>
+               <l>Yet ſhe with the ſame mind that he had ſhowne</l>
+               <l>In ſtout defence of thoſe his Lawes, endur'd</l>
+               <l>The unrevenged murther ſo procur'd.</l>
+               <l>Now <hi>Marcia</hi> thou maiſt reconciled be</l>
+               <l>To Fortune, if that ſhe no worſe by thee</l>
+               <l>Than by the houſe of <hi>Scipio</hi> hath done,</l>
+               <l>And ſpar'd no more the <hi>Caeſars</hi> than thy Sonne.</l>
+               <l>This life doth various accidents produce,</l>
+               <l>And granteth peace to none, nor ſcarce a truce.</l>
+               <l>Thou hadſt foure Children <hi>Marcia,</hi> Shots that fall</l>
+               <l>Amongſt a thicke troope, hardly can miſſe all;</l>
+               <l>And therefore t'were more ſtrange that thou ſo many,</l>
+               <l>Should'ſt long enjoy without the loſſe of any.</l>
+               <l>But thou perhaps doſt Fortune moſt accuſe,</l>
+               <l>In that ſhe did not onely take but chuſe;</l>
+               <l>It can by no meanes be accounted wrong,</l>
+               <pb n="25" facs="tcp:177879:15"/>
+               <l>To ſhare with death, to whom they all belong,</l>
+               <l>Two daughters with their children are alive,</l>
+               <l>Nor yet did fortune utterly deprive</l>
+               <l>Thee of that Sonne that thou doſt ſo deplore,</l>
+               <l>(Having forgotten him that dyed before,)</l>
+               <l>For he two daughters alſo left behind</l>
+               <l>That ſhould bring him, not ſorrow to thy mind,</l>
+               <l>Which thou great pleaſures, or great paines maiſt make,</l>
+               <l>Accordingly as thou the ſame ſhalt take.</l>
+               <l>The huſband-man, when any trees he findes</l>
+               <l>Torne by the rootes, or ſplit with ſudden winds,</l>
+               <l>Some grafts thereof doth inſtantly replant,</l>
+               <l>And with advantage ſoone ſupply's their want,</l>
+               <l>For time, whom all theſe humane things obey,</l>
+               <l>Is ſwift as well in growth as in decay:</l>
+               <l>Place thou thoſe daughters in <hi>Metellius</hi> ſtead,</l>
+               <l>And let two joyes be from one ſorrow bred.</l>
+               <l>It is the nature of all mortalls, moſt</l>
+               <l>To Covet what they utterly have loſt,</l>
+               <l>And with ſuch earneſtnes the ſame t'effect,</l>
+               <l>As what they preſent have, they quite neglect.</l>
+               <l>Behold how fortune hath to thee extended</l>
+               <l>Her favour, though ſhe ſeem'd to be offended,</l>
+               <l>Who doth, beſide thoſe daughters that yet live,</l>
+               <l>The comfort of ſo many <hi>Nephews</hi> give.</l>
+            </div>
+            <div n="17" type="chapter">
+               <head>Cap. 17</head>
+               <l>COnſider likewiſe <hi>Marcia,</hi> that if all</l>
+               <l>According unto merit ſhould befall,</l>
+               <l>No evill ever good-men ſhould betide,</l>
+               <l>But now both good and bad alike divide.</l>
+               <l>And though it grievous be, to have him dye,</l>
+               <l>On whom his parents might ſo much relye,</l>
+               <pb n="26" facs="tcp:177879:16"/>
+               <l>Yet it is humane, thou and all mankind</l>
+               <l>Art certainely to all theſe things deſign'd,</l>
+               <l>To ſuffer loſſe, to dye, to hope, to feare,</l>
+               <l>To grieve and to be grieved, to appeare</l>
+               <l>Deſirous, and yet fearefull to depart,</l>
+               <l>And not to know in what eſtate thou art.</l>
+               <l>If any man before-hand ſhould propound</l>
+               <l>To one that were for <hi>Syracuſa</hi> bound</l>
+               <l>The good and evill that from thence ariſe,</l>
+               <l>And thus, before he went, ſhould him adviſe:</l>
+               <l>Theſe rare things ſhalt thou find, firſt thou ſhalt ſee</l>
+               <l>That Iland ſevered from <hi>Italy,</hi>
+               </l>
+               <l>By ſuch a narrow ſea, as by conſent</l>
+               <l>Of all, is thought t'have beene the continent,</l>
+               <l>Through which the ſea with ſudden breach did flow,</l>
+               <l>And ever ſince the land divided ſo.</l>
+               <l>Then thou by knowne <hi>Charybdis</hi> gulfe muſt ſaile,</l>
+               <l>Which while the winds forbeare their ſoutherne gale,</l>
+               <l>Continues calme, but otherwiſe hath power</l>
+               <l>The greateſt veſſells wholly to devoure:</l>
+               <l>Next ſhalt thou ſee the cleere and famous ſpring</l>
+               <l>Of <hi>Arethuſa,</hi> whereof Poets ſing,</l>
+               <l>Which either there begins, or paſſage makes</l>
+               <l>Beneath the Sea, and not thereof partakes:</l>
+               <l>And then thou ſhalt the ſafeſt harbour gaine</l>
+               <l>That nature ere did make or art obtaine</l>
+               <l>For ſhips to ride in, where it ſhall be ſhowne,</l>
+               <l>Where all the power of <hi>Athens</hi> was o'rethrowne,</l>
+               <l>And where were many thouſand captives ſhut</l>
+               <l>In one vaſt priſon out of maine rocks cut.</l>
+               <l>Thou ſhalt arrive at <hi>Syracuſe</hi> at length,</l>
+               <l>A citty of large circuit and great ſtrength.</l>
+               <pb n="27" facs="tcp:177879:16"/>
+               <l>Where winter is ſo temperat, that no day,</l>
+               <l>Without ſome ſun-ſhine ere doth paſſe away:</l>
+               <l>But when th'aſt found all this, thou ſhalt be ſure</l>
+               <l>A hot contagious ſummer to endure,</l>
+               <l>That with diſeaſes will the land annoy,</l>
+               <l>And that mild winters Benefit deſtroy:</l>
+               <l>There ſhalt thou <hi>Dionyſius</hi> behold</l>
+               <l>Who having law and equity controld,</l>
+               <l>The County's freedome under foot doth tread,</l>
+               <l>And though he have divineſt <hi>Plato</hi> read,</l>
+               <l>Yet to the height of Tyranny aſpires,</l>
+               <l>And after a baſe exile life deſires.</l>
+               <l>Some he will burne, and ſome to death will ſcourge,</l>
+               <l>Others when no occaſion him doth urge</l>
+               <l>He will behead, and overgrowne with vice</l>
+               <l>He male and female will to luſt entice,</l>
+               <l>And 'mongſt thoſe bruitiſh ſinnes that men ſhould loath,</l>
+               <l>Hee'le active be at once and paſſive both.</l>
+               <l>Th'aſt heard what may invite, what may deter,</l>
+               <l>And therefore with thy ſerious thoughts conferre,</l>
+               <l>Whether thou wilt reſolve to goe or ſtay:</l>
+               <l>If after all this warning any ſay,</l>
+               <l>He will adventure, let him beare the blame</l>
+               <l>That undertooke adviſedly the ſame.</l>
+               <l>Thus nature doth to every one declare,</l>
+               <l>If thou bring'ſt children, know, ſome may be faire,</l>
+               <l>Some foule, and ſome, if that thou many have,</l>
+               <l>Their countrey may betray as well as ſave.</l>
+               <l>Deſpaire not but thy children may attaine</l>
+               <l>To ſo great worth, as may mens tongues reſtraine</l>
+               <l>From obloquy, yet likewiſe thinke they may</l>
+               <l>Be ſuch as will a curſe upon thee lay.</l>
+               <pb n="28" facs="tcp:177879:17"/>
+               <l>I ſee no cauſe but thee they ſhould out-live,</l>
+               <l>Yet be prepar'd them unto death to give</l>
+               <l>In child-hood, youth, or age, for there appeares</l>
+               <l>Small difference here in concerning yeeres,</l>
+               <l>Since parents ſeldome go but with moiſt-eyes</l>
+               <l>To any of their childrens obſequies.</l>
+               <l>When thou haſt all theſe things before thee laid,</l>
+               <l>Thou no way canſt the heavenly powers upbraid,</l>
+               <l>If thou wilt then bring children, for behold</l>
+               <l>How they before-hand did the truth unfold.</l>
+            </div>
+            <div n="18" type="chapter">
+               <head>Cap. 18</head>
+               <l>With this example therefore we may well</l>
+               <l>The lives of men and women parallell, </l>
+               <l>As thou, intending <hi>Syracuſe</hi> to view,</l>
+               <l>Haſt underſtood what thereon will enſue,</l>
+               <l>So now imagine that before thy birth,</l>
+               <l>I come to tell what thou ſhalt find on earth.</l>
+               <l>Here nature thee into a cittie brings</l>
+               <l>Common to gods and men, where in all things</l>
+               <l>Contained are, by lawes eternall tide,</l>
+               <l>Where the celeſtiall bodies doe abide,</l>
+               <l>In their unwearied courfe: there ſhall thine eyes</l>
+               <l>Behold the ſtarres in their varieties,</l>
+               <l>And ſee with admiration one great light</l>
+               <l>That fills the world, dividing day and night</l>
+               <l>By dayly motion, by whoſe annuall race,</l>
+               <l>Winter and Summer have their equall ſpace.</l>
+               <l>Then ſhalt thou ſee the Mooue ſucceed the other,</l>
+               <l>Who by encounters borrowes from her brother</l>
+               <l>Her dimmer light, which ſometimes not appearing,</l>
+               <l>And ſometimes with full face the ſad earth cheering,</l>
+               <l>Is, in increaſing and decreaſes ſtrange,</l>
+               <pb n="29" facs="tcp:177879:17"/>
+               <l>And every day from what ſhe was doth change.</l>
+               <l>Then ſhalt thou ſee five planets that all bend</l>
+               <l>Their courſes ſeverally, and do contend</l>
+               <l>With heavens ſwift motion, theſe controle the fates</l>
+               <l>Of private people, and of publicke ſtates,</l>
+               <l>Which ſubject are to good or bad effects</l>
+               <l>According to their different aſpects.</l>
+               <l>Then ſhalt thou ſee the clouds, the raine, and wonder</l>
+               <l>At oblique lightnings, and heaven-piercing thunder;</l>
+               <l>And when thine eyes are filled with that fight,</l>
+               <l>Behold the earth affordeth new delight,</l>
+               <l>Smooth boundleſſe plaines, &amp; high ſnow-headed mountaines,</l>
+               <l>The falls of rivers, and cleare ſtreaming fountaines,</l>
+               <l>Floods from one ſource that runne both Eaſt &amp; weſt,</l>
+               <l>And tottring woods with their owne beight oppreſt.</l>
+               <l>Thicke forreſts fraught with beaſts, and birds that fly,</l>
+               <l>And warble foorth their differing harmony:</l>
+               <l>Then ſhalt thou ſee the divers ſcituations</l>
+               <l>Of citties, and of farre disjoyned nations,</l>
+               <l>Whereof ſome for ſecurity retire</l>
+               <l>Into the mountaines, ſome the plaines deſire,</l>
+               <l>Others delight neere rivers to remaine,</l>
+               <l>And ſome to dwell in Fens do not diſdaine.</l>
+               <l>Then ſhalt thou ſee the plow-man till the land,</l>
+               <l>Preparing harveſt with induſtrious hand,</l>
+               <l>Trees fructifie alone, brookes gently ſlide</l>
+               <l>Along the moddowes, in their flowry pride,</l>
+               <l>Havens and creeks that all beholders pleaſe,</l>
+               <l>And ſcattered Ilands giving names to Seas.</l>
+               <l>What ſhould I tell of pretious ſtones, of gold,</l>
+               <l>That ſwifteſt torrents in their ſands infold?</l>
+               <l>Of fires in midſt of land and ſea that ſhine,</l>
+               <pb n="30" facs="tcp:177879:18"/>
+               <l>And of the <hi>Ocean</hi> whoſe large armes intwine</l>
+               <l>The ſpacious earth, which that in three parts cuts,</l>
+               <l>And ſo a barre betwixt the nations puts:</l>
+               <l>Which rageth oft with an unbridled will</l>
+               <l>Within whoſe waters, that are ſeldome ſtill,</l>
+               <l>Huge monſters live, that all beleefe exceed,</l>
+               <l>Some are ſo great and heavy that they need</l>
+               <l>The art of others, ſome ſo lightly float,</l>
+               <l>Their courſe is ſwifter then the ſwifteſt boat,</l>
+               <l>And ſome ſuch floods of water from them fling</l>
+               <l>As oftentimes do ſhips in danger bring.</l>
+               <l>Where thou ſhalt ſee adventrous fleets prepar'd</l>
+               <l>To find out lands whereof few ever heard,</l>
+               <l>There being nothing now left unattempted</l>
+               <l>By humane boldneſſe, nor art thou exempted,</l>
+               <l>But ſhalt thy ſelfe herein have much to doe</l>
+               <l>As a ſpectator, and an actor too:</l>
+               <l>Thou Arts ſhalt learne and teach, ſome liberall,</l>
+               <l>Mechanique ſome, ſome Philoſophicall</l>
+               <l>To perfect life, but having all this found,</l>
+               <l>Know, that this city likewiſe will abound</l>
+               <l>With peſtilent diſeaſes, that will foule,</l>
+               <l>And quite deſtroy the body and the ſoule,</l>
+               <l>Warres, rapines, poyſonings haſting ſo our ends,</l>
+               <l>Ship-wracks, ill ayre, and loſſe of deareſt friends,</l>
+               <l>Death and the ſame, as much uncertaine, when,</l>
+               <l>As whether eaſie or with torments, then</l>
+               <l>Bethinke thy ſelfe if thou on life wilt venture,</l>
+               <l>For here thou muſt goe out that there doſt enter.</l>
+               <l>Thou'lt chooſe to live, why not? can I ſuppoſe</l>
+               <l>Thou ſeekeſt that whereof th'art loath to loſe</l>
+               <l>Any one part: live therefore as is fit,</l>
+               <pb n="31" facs="tcp:177879:18"/>
+               <l>And beare thy loſſe as one prepar'd for it.</l>
+               <l>But here perhaps t'will be objected thus,</l>
+               <l>That none before hand hath conſulted us,</l>
+               <l>Our parents, who the worlds condition knew,</l>
+               <l>Conſulted were and thence our covenant grew.</l>
+            </div>
+            <div n="19" type="chapter">
+               <head>Cap. 19</head>
+               <l>But to returne to conſolations now, </l>
+               <l>Firſt let us ſee what's to be done, then how:</l>
+               <l>We commonly with ſorrow much are mov'd</l>
+               <l>Upon the loſſe of thoſe we dearely lov'd,</l>
+               <l>And yet we find that we can eaſily beare</l>
+               <l>The abſence of our friends, which commeth neere?</l>
+               <l>To death it ſelfe, becauſe we are thereby</l>
+               <l>Deprived of their help and company:</l>
+               <l>Opinion then our ſorrow doth beget,</l>
+               <l>And we our ſelves a rate upon it ſet,</l>
+               <l>This remedy we have, let's but conceive</l>
+               <l>That they as abſent only tooke their leave,</l>
+               <l>And ſince we all muſt follow, tis no more</l>
+               <l>But to ſuppoſe that they are gone before.</l>
+               <l>Yet this perchance our griefe doth much augment</l>
+               <l>That children are for our protection ſent,</l>
+               <l>But ſhall I tell, what ſtrange to thee may ſeeme,</l>
+               <l>That childleſſe folkes are now in moſt eſteeme,</l>
+               <l>And fruitfullneſſe that uſually hath fav'd</l>
+               <l>Old age from ruine, is ſo much deprav'd,</l>
+               <l>That many their owne children ſtrive to hate,</l>
+               <l>And ſeeke the meanes to become deſolate.</l>
+               <l>But as for thee, thy dammage not ſo much</l>
+               <l>As thy affection makes thy ſorrow ſuch,</l>
+               <l>For he unworthy comfort is to have</l>
+               <l>That parteth with a child as with a ſlave,</l>
+               <pb n="32" facs="tcp:177879:19"/>
+               <l>Or that doth thinke of any thing beſide,</l>
+               <l>The very perſon of his Sonne that dy'd.</l>
+               <l>Why doth thy paſſion then remaine ſo ſtrong,</l>
+               <l>Becauſe hee's dead, or that he liv'd not long?</l>
+               <l>If that the reaſon be, becauſe hee's dead,</l>
+               <l>Then ſure thou ſhouldſt have ever ſorrowed;</l>
+               <l>For thou didſt ever know he was to dye:</l>
+               <l>
+                  <note place="inline">Three or foure lines omitted, repug<g ref="char:EOLhyphen"/>nant to the reſt, impugning the immortality of the ſoule.</note>
+               </l>
+               <l>And therefore thinke what he hath gain'd thereby,</l>
+               <l>Since his enthralled bondage now doth ceaſe,</l>
+               <l>And he abideth in eternall peace,</l>
+               <l>Where no vaine feare of poverty affrights him,</l>
+               <l>Nor vainer hope of getting wealth delights him,</l>
+               <l>And where no provocations of luſt</l>
+               <l>Do him into unlawfull pleaſures thruſt:</l>
+               <l>Who neither envies any others good,</l>
+               <l>Or any way by envy is with-ſtood,</l>
+               <l>Whoſe eares heare no revilings, and whoſe eyes</l>
+               <l>Behold no manner of calamities:</l>
+               <l>Who doth no more depend upon events</l>
+               <l>That hourely alter from their firſt intents,</l>
+               <l>But hath obtain'd a place of that defence,</l>
+               <l>That fraud nor force can ever drive him thence.</l>
+            </div>
+            <div n="20" type="chapter">
+               <head>Cap. 20</head>
+               <l>HOw little do men know their miſeries</l>
+               <l>That do not death as natures beſt gift priſe: </l>
+               <l>Whether that ſhe felicity include,</l>
+               <l>Or the calamity that them purſu'd</l>
+               <pb n="33" facs="tcp:177879:19"/>
+               <l>Doth drive away, or whether ſhe do end</l>
+               <l>The irkſome troubles that old age attend,</l>
+               <l>Or that the ſame the flowre of youth doth crop,</l>
+               <l>In the chiefe prime of his expected hope,</l>
+               <l>Or whether tender childhood ſhe recall,</l>
+               <l>Ere that into a worſe condition fall:</l>
+               <l>Shee is the end of all, the help of many,</l>
+               <l>The wiſh of ſome, not meriting from any</l>
+               <l>More then from theſe, to whom without requeſt</l>
+               <l>She with the ſooneſt hath her ſelfe addreſt.</l>
+               <l>Shee free's the ſlave in ſpight of his ſterne lord,</l>
+               <l>Shakes off his chaines, and of her owne accord</l>
+               <l>Releaſeth priſoners that committed ſtand,</l>
+               <l>By cruell tyrants under ſtrickt command.</l>
+               <l>Shee teacheth them that are in baniſhment</l>
+               <l>(Whoſe thoughts and eies are on their country bent)</l>
+               <l>Not to be troubled, how, when they are dead</l>
+               <l>Or in what place they ſhall be buried.</l>
+               <l>She when blind fortune hath divided ill</l>
+               <l>Her gifts, 'tweene thoſe that had by natures will</l>
+               <l>An equall right, doth them againe reſtore</l>
+               <l>To that equality they had before.</l>
+               <l>Shee it is that could never yet obey,</l>
+               <l>That takes all ſence of poverty away,</l>
+               <l>She it is <hi>Marcia</hi> whom thy father ſought,</l>
+               <l>That makes it not a puniſhment be thought</l>
+               <l>To have beene borne, but helps us in deſpight</l>
+               <l>Of fortunes threats, to keepe our minds upright.</l>
+               <l>Death is our refuge, though we tortur'd bee</l>
+               <l>In ſeverall kinds, ſhe us at length ſhall free:</l>
+               <l>Some their heads downe ward are to gibbets ty'd,</l>
+               <l>And ſome with ſtretcht out armes are crucify'd,</l>
+               <pb n="34" facs="tcp:177879:20"/>
+               <l>Where every member ſundry engines rent,</l>
+               <l>And ſome have ſtak's thruſt through their fundament,</l>
+               <l>Yet death's their cure: here enemies invade,</l>
+               <l>There friends inſult, yet death at length brings aid,</l>
+               <l>It is not hard to ſerve, when at one ſtep</l>
+               <l>We weary growne may into freedome leape:</l>
+               <l>Againſt the injury of life we have</l>
+               <l>A ſure and common benefit, a grave.</l>
+               <l>Thinke but what good a timely death hath brought,</l>
+               <l>And how much ill a longer life hath wrought.</l>
+               <l>Had <hi>Pompey</hi> this great Empire's ſtrength and pride,</l>
+               <l>At <hi>Naples</hi> of his burning-feaver dy'd,</l>
+               <l>He then the Prince of <hi>Rome</hi> had ſure beene ſtil'd,</l>
+               <l>Whereas his glorious hopes were all beguil'd</l>
+               <l>By the addition of a little time,</l>
+               <l>And he throwne ſwifter downe, then he could climbe.</l>
+               <l>He ſaw his legions lie before him dead,</l>
+               <l>Whoſe vanguard by grave Senators was led,</l>
+               <l>That did eſcape, to teſtifie to all</l>
+               <l>The too long life of him their Generall:</l>
+               <l>His ſacred body he did then ſubmit</l>
+               <l>To baſe Aegyptians that betrayed it,</l>
+               <l>Though had he liv'd, it would have beene a griefe,</l>
+               <l>To thinke how he was forc't to ſeeke reliefe,</l>
+               <l>That <hi>Pompey</hi> through the world ſurnam'd the great,</l>
+               <l>Of any King ſhould life or aid intreat.</l>
+               <l>Had <hi>Tully</hi> dy'd when he eſcap't the ſlaughter</l>
+               <l>Deſign'd by <hi>Catiline,</hi> or with his daughter</l>
+               <l>Had left the world, he had great honor wonne,</l>
+               <l>And had not ſeene ſo many miſchiefes done,</l>
+               <l>Swords ſheath'd in mutuall bowells, and their goods</l>
+               <l>By murd'rers ſhar'd, who therfore ſought their bloods:</l>
+               <pb n="35" facs="tcp:177879:20"/>
+               <l>Nor beene ſo much unhappy to behold</l>
+               <l>The Conſulary ſpoyles at out-cries fold,</l>
+               <l>When as our ſtate no inſolence debar'd,</l>
+               <l>But unto theeves and traitors gave reward,</l>
+               <l>Encouraging all ſorts of lewd deſignes,</l>
+               <l>The Senate having many <hi>Catilines.</hi>
+               </l>
+               <l>If <hi>Cato,</hi> when from <hi>Cyprus</hi> he did bring</l>
+               <l>To <hi>Rome</hi> the wealth of that deceaſed King.</l>
+               <l>Had with the ſame, intended for the pay</l>
+               <l>Of a dire civill warre, beene caſt away,</l>
+               <l>This honour had accompanied his end,</l>
+               <l>That none in <hi>Cato's</hi> preſence durſt offend,</l>
+               <l>Whereas a little tract of time compel'd</l>
+               <l>Him, that <hi>Romes</hi> freedome with his owne upheld,</l>
+               <l>To fly from <hi>Caeſar</hi> and to <hi>Pompey</hi> cleave,</l>
+               <l>And at the length himſelfe of life bereave.</l>
+               <l>An early death no dammage then hath ſent</l>
+               <l>Upon thy ſonne, but rather did prevent</l>
+               <l>The cares that to a longer life belong,</l>
+               <l>And therefore do not thinke de dy'd too yong.</l>
+               <l>For if the life of the moſt aged man</l>
+               <l>Conſidered be, what is it but a ſpan?</l>
+               <l>As in an Inne he lodgeth in the world,</l>
+               <l>And in a moment out againe is hurl'd;</l>
+               <l>So ſwiftly poſts our life, and if the ſtory</l>
+               <l>Thou doſt but read of cities that moſt glory</l>
+               <l>In their antiquity, it will appeare,</l>
+               <l>That nothing can be old accounted here.</l>
+               <l>All humane things are fraile, and haue no right</l>
+               <l>To any part of that vaſt infinite.</l>
+               <l>We ſay the earth, men, cities, rivers, ſeas,</l>
+               <l>Whoſe larger circuit comprehends all theſe,</l>
+               <pb n="36" facs="tcp:177879:21"/>
+               <l>Are but a point compar'd with all the reſt,</l>
+               <l>Our life, of no part of a poynt's poſſeſt</l>
+               <l>Compar'd with time, the world exceeding farre,</l>
+               <l>Whoſe revolutions thereby meaſur'd are.</l>
+               <l>Why ſhould our minds then on that thing be bent,</l>
+               <l>Which brought unto the uttermoſt extent</l>
+               <l>Is little more then nothing? therefore hee</l>
+               <l>Lives long enough that can contented be:</l>
+               <l>For though thy life a hundred yeeres ſhould laſt,</l>
+               <l>Yet that compar'd with all the time that's paſt</l>
+               <l>And is to come, would in effect amount</l>
+               <l>No more then to the ſhorteſt in account.</l>
+               <l>He dyed not too ſoone that liv'd the time.</l>
+               <l>Appointed, though he dyed in his prime:</l>
+               <l>Men live not all alike nor beaſts, for ſome</l>
+               <l>Grow weary, when to fourteene yeeres they come,</l>
+               <l>And that which is their laſt, is mans firſt age,</l>
+               <l>Wee all of us have our prefixed ſtage,</l>
+               <l>Which we by no endeavour can exceed,</l>
+               <l>Nor ſhould we grudge at what is ſo decreed:</l>
+               <l>He had what was allotted him, no chance</l>
+               <l>His life could ere diminiſh, or advance,</l>
+               <l>Wee all are in this errour, to conceive</l>
+               <l>That we this world are never like to leave</l>
+               <l>But in old crooked age, when as we know</l>
+               <l>We may as well in youth or childhood goe.</l>
+               <l>Our birth is towards death the firſt degree,</l>
+               <l>And what we live beyond is given free:</l>
+               <l>Fate ply's her worke, and to delude our ſenſe,</l>
+               <l>Makes death ſteale on us under lifes pretence,</l>
+               <l>For childhood doth our infancy ſurpriſe,</l>
+               <l>And youth or childhood, then age quickely hyes,</l>
+               <pb n="37" facs="tcp:177879:21"/>
+               <l>And ſuch as ſeeme increaſes, if well weigh'd,</l>
+               <l>Are dammages that ſecretly invade.</l>
+            </div>
+            <div n="21" type="chapter">
+               <head>Cap. 21</head>
+               <l>BUt thou complaineſt <hi>Marcia</hi> that thy Sonne</l>
+               <l>Attained not the yeeres he might have done, </l>
+               <l>Yet knoweſt not whether the ſame were fit,</l>
+               <l>Or whether that were not a benefit:</l>
+               <l>For no man is in ſuch aſſur'd eſtate</l>
+               <l>But may in time become unfortunate,</l>
+               <l>So fraile are worldly things, and we may boaſt</l>
+               <l>Leaſt of that part of life that pleaſeth moſt:</l>
+               <l>And therefore death that bringeth certaine reſt,</l>
+               <l>Is ever to be wiſh't for of the beſt,</l>
+               <l>Becauſe we plainely ſee that in this vaſt</l>
+               <l>Confuſion, nothing's ſure but what is paſt.</l>
+               <l>Who could aſſure thee that the beauteous frame</l>
+               <l>Of thy ſonnes body, though he kept the ſame</l>
+               <l>With modeſty ſafe-guarded from the eyes,</l>
+               <l>Of a lewd city fild with luxuries,</l>
+               <l>Should likewiſe from diſeaſes be ſecure,</l>
+               <l>And to old age unblemiſhed endure?</l>
+            </div>
+            <div n="22" type="chapter">
+               <head>Cap. 22</head>
+               <l>THinke on the ſpots wherewith the ſoule is ſtain'd, </l>
+               <l>How ſome great wits have not to age retain'd</l>
+               <l>The wayes of vertue in their youth begun,</l>
+               <l>But have into degenerate courſes runne:</l>
+               <l>How luxury, which men ſhould ever hate</l>
+               <l>So much the more becauſe it commeth late,</l>
+               <l>Doth oftentimes the hope of youth deface,</l>
+               <l>And gluttony intruding in the place</l>
+               <l>Of temperance well begun, ſo makes men ſwerve,</l>
+               <l>That they in age the belly only ſerve,</l>
+               <pb n="38" facs="tcp:177879:22"/>
+               <l>When as their chiefeſt care is but to thinke</l>
+               <l>Continually what they ſhall eat &amp; drinke.</l>
+               <l>Adde likewiſe ruines both of ſword and fire,</l>
+               <l>Ship-wracks, diſeaſes that ſtrange cures require,</l>
+               <l>Where corroſives pierce live mens bones &amp; marrow,</l>
+               <l>And Surgeons hands their very intralles harrow,</l>
+               <l>Who many times ſome ſecret paine to eaſe,</l>
+               <l>Give remedies as bad as the diſeaſe:</l>
+               <l>Then after theſe, conſider baniſhment,</l>
+               <l>For ſure thy Sonne was not more innocent</l>
+               <l>Then was <hi>Rutilius;</hi> or a priſon, hee</l>
+               <l>Then <hi>Socrates</hi> could hardly wiſer be;</l>
+               <l>Or voluntary death; he could not raiſe</l>
+               <l>His vertues above holy <hi>Catoes</hi> praiſe.</l>
+               <l>All which conſdered duely, in regard</l>
+               <l>That death muſt in the end be lifes reward,</l>
+               <l>Thou may'ſt conclude that nature dealeth beſt</l>
+               <l>With thoſe to whom ſhe ſooneſt giveth reſt:</l>
+               <l>For life ſo wretched is, that it would ſcant</l>
+               <l>Accepted be but of the ignorant.</l>
+               <l>And therefore as its beſt not to be borne,</l>
+               <l>So next to that is quickly to returne;</l>
+               <l>Thinke on the time wherein <hi>Sejanus</hi> gave</l>
+               <l>To <hi>Satrius</hi> his mercenary ſlave,</l>
+               <l>Thy fathers goods, whoſe free ſpeech him offended,</l>
+               <l>Saying, <hi>He was not put, but had aſcended</hi>
+               </l>
+               <l>
+                  <hi>Vpon our necks,</hi> and when it did appeare</l>
+               <l>That he his ſtatue did intend to reare</l>
+               <l>In <hi>Pompeys Theatre,</hi> that had of late</l>
+               <l>Beene burnt and now re-built with no leſſe ſtate,</l>
+               <l>
+                  <hi>Cremutius</hi> crying out againſt it, ſaid,</l>
+               <l>
+                  <hi>The Theatre then truely periſhed.</hi>
+               </l>
+               <pb n="39" facs="tcp:177879:22"/>
+               <l>For what man could behold <hi>Sejanus</hi> ſit</l>
+               <l>On <hi>Pompey's</hi> aſhes, and not ſtorme at it,</l>
+               <l>Or ſee the moſt unworthy ſouldier crown'd</l>
+               <l>With honour of a Captaine ſo renown'd?</l>
+               <l>Yet there his image with th'inſcription ſtood,</l>
+               <l>And thoſe fierce doggs nouriſh't with humane blood,</l>
+               <l>That being gentle unto him alone,</l>
+               <l>Their fury to all others might be ſhowne,</l>
+               <l>At <hi>Cordus</hi> ſuddainely began to bay,</l>
+               <l>That he to live muſt now <hi>Sejanus</hi> pray,</l>
+               <l>Or of his daughter muſt to dye crave leave,</l>
+               <l>Inexorable both: he to deceive</l>
+               <l>His daughter did reſolve, and with intent</l>
+               <l>His plot to hide, he uſ'd a bath, and went</l>
+               <l>Into his chamber with pretence to eate.</l>
+               <l>Then ſending forth his ſervants threw ſome meate</l>
+               <l>Out at the window, to make ſhew thereby</l>
+               <l>As if he there had ſupped privately:</l>
+               <l>He faſted ſo the next day and the third,</l>
+               <l>Whereby a mortall weakneſſe he incurr'd:</l>
+               <l>Then thee imbracing thus his mind reveal'd,</l>
+               <l>
+                  <hi>My deareſt daughter, I have nought conceal'd</hi>
+               </l>
+               <l>
+                  <hi>In all my life from thee, ſave this alone,</hi>
+               </l>
+               <l>
+                  <hi>I now a journey towards death am gone,</hi>
+               </l>
+               <l>
+                  <hi>And haue by this time gotten halfe the way:</hi>
+               </l>
+               <l>
+                  <hi>Thou mee, nor may'ſt, nor canſt, revoke or ſtay.</hi>
+               </l>
+               <l>This ſaid, he caus'd the windowes to be ſhut,</l>
+               <l>And from that time himſelfe in darkneſſe put:</l>
+               <l>This fact divulg'd through <hi>Rome,</hi> had great applauſe,</l>
+               <l>Becauſe the prey was ſnatcht from th'wolfes jawes,</l>
+               <l>But his accuſers by <hi>Sejanus</hi> ſent,</l>
+               <l>To the tribunall of the Conſulls went,</l>
+               <pb n="40" facs="tcp:177879:23"/>
+               <l>Craving that <hi>Cordus</hi> might be yet with-held</l>
+               <l>From doing what themſelves had him compeld,</l>
+               <l>So loath were they who hungerly did gape</l>
+               <l>That in this manner he ſhould them eſcape:</l>
+               <l>There grew a doubt whether they might by law</l>
+               <l>A man accus'd from ſuch an act with-draw,</l>
+               <l>Whilſt this was in diſpute on every ſide,</l>
+               <l>
+                  <hi>Cordus</hi> at home releaſt himſelfe and dy'd.</l>
+               <l>Seeft thou not <hi>Marcia,</hi> what unlook't for woe</l>
+               <l>In ſuch recourſes of ill times do flow?</l>
+               <l>Thou griev'ſt that fate did one to dye conſtraine,</l>
+               <l>And yet another ſcarce could leave obtaine.</l>
+            </div>
+            <div n="23" type="chapter">
+               <head>Cap. 23</head>
+               <l>BVt beſide this, that future things are ſtill</l>
+               <l>Doubtfull, and never certaine but to ill,</l>
+               <l>The paſſage is more eaſie, when the ſoule</l>
+               <l>Is ſpeedily diſmiſſed from her foule</l>
+               <l>Abode, for ſhe doth then contract leſſe ſlime,</l>
+               <l>And to her ſtation may more lightly clime.</l>
+               <l>Great ſpirits cannot willingly reſide</l>
+               <l>Long in the body, nor thoſe ſtraights abide,</l>
+               <l>But to breake through, and mount aloft, deſire,</l>
+               <l>And to their firſt originall aſpire.</l>
+               <l>And therefore learned <hi>Plato</hi> ſayeth well,</l>
+               <l>A wiſe mans mind on death doth ever dwell,</l>
+               <l>Doth wiſh, doth will, and thereto in effect</l>
+               <l>In all his actions hath his whole reſpect.</l>
+               <l>When ſuch grave vertue <hi>Marcia</hi> thou did'ſt view</l>
+               <l>In thy yong Sonne, and how he did ſubdue</l>
+               <l>All his affections, given to no vice,</l>
+               <l>In midſt of wealth abhorring avarice,</l>
+               <l>How honour without pride he did poſſeſſe,</l>
+               <pb n="41" facs="tcp:177879:23"/>
+               <l>And recreations without wantonneſſe,</l>
+               <l>Couldſt thou conceive that he could long remaine?</l>
+               <l>What ere at higheſt is, goes backe againe;</l>
+               <l>Vertue growne perfect vaniſheth away;</l>
+               <l>And fruits that ripen ſoone, doe ſoone decay,</l>
+               <l>Fire that burnes cleare, is ſoone extinguiſhed,</l>
+               <l>That laſteth more that with groſſe matter fed</l>
+               <l>Burnes with a thicke ſmoake, for it beſt ſubſiſteth</l>
+               <l>With nouriſhment whoſe quality reſiſteth:</l>
+               <l>So wit, that is moſt delicate and pure,</l>
+               <l>Is ever found a ſhort time to endure;</l>
+               <l>For diſſolution followeth apace,</l>
+               <l>When as for future growth there is no place.</l>
+               <l>
+                  <hi>Fabian</hi> reports a monſtrous thing in nature,</l>
+               <l>Of a child ſeene in <hi>Rome</hi> of a mans ſtature,</l>
+               <l>But it ſoone dy'd, as wiſemen did preſage,</l>
+               <l>His ſtature had ſo gained on his age.</l>
+               <l>Decay doth ſtill maturity attend,</l>
+               <l>And things when growth is ſpent, draw neer their end.</l>
+            </div>
+            <div n="24" type="chapter">
+               <head>Cap. 24</head>
+               <l>COunt thy Sons vertues then, and not his yeeres, </l>
+               <l>Though he t'have lived long enough appeares,</l>
+               <l>Who fourteene yeeres was under Tutors bred,</l>
+               <l>And by thy counſell ever governed;</l>
+               <l>Who though he had a houſhold of his owne,</l>
+               <l>Vnwilling was to have thee live alone,</l>
+               <l>And being fit the warres to undertake,</l>
+               <l>The ſame refuſed wholly for thy ſake;</l>
+               <l>For thinke how ſmall a time they are enjoy'd,</l>
+               <l>That often are in forraigne parts imploy'd;</l>
+               <l>How mothers uſually that time lament,</l>
+               <l>No leſſe then death which in the warres is ſpent;</l>
+               <pb n="42" facs="tcp:177879:24"/>
+               <l>And then beleeve he liv'd as long as others</l>
+               <l>That alwaies have beene abſent from their mothers.</l>
+               <l>He thus remaining in thy houſe and ſight,</l>
+               <l>To order there his ſtudies tooke delight,</l>
+               <l>Gaining a wit by precepts dayly read,</l>
+               <l>That would his grand-fathers have equalled,</l>
+               <l>Had it not beene with-ſtood by baſh fullneſſe,</l>
+               <l>That great worth oft in ſilence doth ſuppreſſe:</l>
+               <l>A youth of rare aſpect, who 'mongſt ſo many</l>
+               <l>Men-tempting women, gave no hope to any,</l>
+               <l>But when the luſt of ſome durſt him aſſault,</l>
+               <l>Would bluſh and thinke his comlineſſe a fault.</l>
+               <l>This holineſſe of manners was the cauſe</l>
+               <l>That he, though very yong, with great applauſe</l>
+               <l>Was made a Prieſt, by meanes his mother us'd,</l>
+               <l>Though notwithſtanding he had beene refuſ'd,</l>
+               <l>Had not his owne true worth their judgements led,</l>
+               <l>Then do not thou conceive him to be dead,</l>
+               <l>But that his vertues make him ſo remaine,</l>
+               <l>That thou for him ſhalt never grieve againe:</l>
+               <l>For all, that can be now, thou haſt endur'd,</l>
+               <l>The reſt is free from chance, of joy aſſur'd.</l>
+               <l>And if thy Sonne thou wilt but rightly priſe,</l>
+               <l>Then know his image onely buried lyes,</l>
+               <l>And that not very like, whilſt he, now eas'd</l>
+               <l>Of all the burdens that him ſo diſpleas'd,</l>
+               <l>Is rendred to himſelfe, for fleſh, and skin,</l>
+               <l>And all the reſt that we are wrapped in,</l>
+               <l>Are nothing but the fetters of the ſoule,</l>
+               <l>And ſuch as doe her faculties controule,</l>
+               <l>Which ſhee oppoſing ever ſtrives to bee</l>
+               <l>In endleſſe bliſſe, from all darke errours free;</l>
+               <pb n="43" facs="tcp:177879:24"/>
+               <l>And therefore 'tis but folly to repayre</l>
+               <l>Unto his Sepulchre, where aſhes are,</l>
+               <l>And bones, and that which troubled him, no more</l>
+               <l>Parts of thy Sonne, then were the clothes, he wore:</l>
+               <l>For he went hence intire, ſtaying a while</l>
+               <l>Above us to be purged from the vile</l>
+               <l>Contracted dregs of nature, mounted then</l>
+               <l>And was receiv'd amongſt thoſe happy men,</l>
+               <l>The <hi>Scipio's,</hi> and the <hi>Cato's,</hi> with the reſt</l>
+               <l>That life contemn'd and now in death are bleſt.</l>
+               <l>Thy father there (<hi>O Marcia,</hi> though that place</l>
+               <l>Makes all of kinne) his Grandchild doth embrace,</l>
+               <l>And there inſtructs the new enlightened youth</l>
+               <l>Not by conjecture, but aſſured truth</l>
+               <l>In all the courſes of the ſtarres neere hand,</l>
+               <l>And makes him all thoſe ſecrets underſtand:</l>
+               <l>And as a ſtranger joyeth to find one</l>
+               <l>That in a city where he is not knowne,</l>
+               <l>Will take the paines to lead him up and downe,</l>
+               <l>And ſhew him all the pleaſures of the towne,</l>
+               <l>So glad was he, when he did firſt arrive</l>
+               <l>(Being of heavenly things inquiſitive)</l>
+               <l>Of this well knowne interpreter, that ſo,</l>
+               <l>He likewiſe might be ſhew'd the things below,</l>
+               <l>For 'tis a pleaſure to th'infranch is'd mind</l>
+               <l>To view from heaven what it hath left behind.</l>
+               <l>Frame all thy actions then as they were done</l>
+               <l>In ſight both of thy father and thy Sonne,</l>
+               <l>Who are not now, as when from hence they went,</l>
+               <l>But every way become more excellent,</l>
+               <l>And be aſhamed of theſe triviall things,</l>
+               <l>To grieve for them, whoſe change ſuch honor brings,</l>
+               <pb n="44" facs="tcp:177879:25"/>
+               <l>Who left the world to fixe themſelves on high,</l>
+               <l>And there to dwell in endleſſe liberty,</l>
+               <l>Where neither Seas, nor hills, nor danger barres</l>
+               <l>Their entercourſe, whoſe wayes are mixt with ſtarres.</l>
+            </div>
+            <div n="26" type="chapter">
+               <head>Cap. 26</head>
+               <l>THink therfore now that from that heavenly Tower</l>
+               <l>Thy father ſpeakes, who had with thee like power</l>
+               <l>That thou hadſt with thy Sonne, not in that ſtraine</l>
+               <l>Wherein he did of civill warres complaine,</l>
+               <l>Wherein the baniſhers themſelves he ſent,</l>
+               <l>With ſhame into eternall baniſhment,</l>
+               <l>But with a farre more elevated wit,</l>
+               <l>As he doth now in greater glory ſit.</l>
+               <l>
+                  <hi>Why Daughter doth thy griefe remaine ſo long?</hi>
+               </l>
+               <l>Why doſt thou ſo continue in the wrong?</l>
+               <l>To thinke thy Sonne ill dealt with? who withdrew</l>
+               <l>Himſelfe to his forefathers when he grew</l>
+               <l>Weary of life, doſt thou not know what blaſts</l>
+               <l>Of trouble fortune upon all things caſts?</l>
+               <l>How ſhe her favour only doth conferre</l>
+               <l>On thoſe that have converſed leaſt with her?</l>
+               <l>Wilt thou that I thoſe famous Kings repeat,</l>
+               <l>Whoſe happineſſe would have been found compleat,</l>
+               <l>Had timely death, whereof none ere repented,</l>
+               <l>The evills of their future lives prevented?</l>
+               <l>Or Roman captaines, who could nothing lacke,</l>
+               <l>Had ſome few yeeres of life beene given backe?</l>
+               <l>Or thoſe great men that of their owne accord</l>
+               <l>Expos'd their necks unto the ſouldiers ſword?</l>
+               <l>Thy father and thy grand-father behold</l>
+               <l>He murthered was, I ſhewing with how bold</l>
+               <l>A mind I writ, did rather then to lye</l>
+               <pb n="45" facs="tcp:177879:25"/>
+               <l>At others mercy, chooſe to faſt and dye.</l>
+               <l>Why is he in our houſe ſo much bewail'd,</l>
+               <l>Whom death in ſo great meaſure hath avail'd?</l>
+               <l>We dwell together in a glorious light,</l>
+               <l>And ſee you compaſt with a diſmall night,</l>
+               <l>Where all your beſt things baſe and ſordid are,</l>
+               <l>And may not with the leaſt of ours compare.</l>
+               <l>What ſhould I ſay? heere are no battells fought</l>
+               <l>By land or ſea, no miſchiefes done or thought?</l>
+               <l>Our Courts are not with clamours fill'd, our dayes</l>
+               <l>Perpetuall are, our hearts, our lives, our wayes</l>
+               <l>Open, and nothing hid within our breſt,</l>
+               <l>But all events to us are manifeſt.</l>
+               <l>I when I liv'd, took pleaſure to compoſe</l>
+               <l>The ſtory of one age, and but of thoſe</l>
+               <l>That in a corner of the world did dwell,</l>
+               <l>Wee the ſucceſſion of all times can tell,</l>
+               <l>And doe the riſe and falls of kingdomes view,</l>
+               <l>The ruines of great cities with the new</l>
+               <l>And uncontrolled courſes of the Seas,</l>
+               <l>For know, that if it may thy ſorrow eaſe,</l>
+               <l>To underſtand the truth of common fate,</l>
+               <l>That nothing ſhall continue in the ſtate</l>
+               <l>That now it is, time all things ſhall devoure,</l>
+               <l>And not with men alone, of Fortunes power,</l>
+               <l>(The ſmalleſt part alas!) ſhall paſtime make,</l>
+               <l>But the whole world ſhall of the ſame partake.</l>
+               <l>Here it ſhall hills ſuppreſſe, there rocks inforce,</l>
+               <l>And ſupp up Seas, and change the uſuall courſe</l>
+               <l>Of rivers, and diſſolving all commerce,</l>
+               <l>The race of man ſhall utterly diſperſe:</l>
+               <l>Cauſing elſe-where the trembling earth to cleave,</l>
+               <pb n="46" facs="tcp:177879:26"/>
+               <l>And greedily whole cities to receive</l>
+               <l>Into her bowells, belching out from thence</l>
+               <l>Damps that will breed a generall peſtilence.</l>
+               <l>Then ſhall it both with inundations drowne</l>
+               <l>And with ſtrange fires all mortall things burne down:</l>
+               <l>And when the world that is to be renew'd,</l>
+               <l>Shall thus diſſolve, there ſhall be deadly feud</l>
+               <l>Betweene the ſtarres that with ſuch order ſhine</l>
+               <l>Which ſhall their fires to that vaſt fire reſigne.</l>
+               <l>Wee alſo being bleſſed ſoules that claime</l>
+               <l>Aeternity, when God ſhall pleaſe to frame</l>
+               <l>The world anew, muſt therein have our ſhare,</l>
+               <l>And ſhall to our firſt elements repaire.</l>
+               <l>And therefore, <hi>Marcia</hi> happy is thy Sonne,</l>
+               <l>That know's all this as't were already done.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>SA. BAKER,</hi> Epiſcopo Londinenſi à ſacris.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
